@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Theme } from '@nivo/core'
+import { Theme } from '@stu-dev/nivo-core'
 import { generateSwarmPlotData } from '@nivo/generators'
 import { useOrdinalColorScale } from '@nivo/colors'
 import { usePie } from '@nivo/pie'

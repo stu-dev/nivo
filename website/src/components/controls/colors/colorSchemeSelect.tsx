@@ -4,7 +4,7 @@ import { startCase } from 'lodash'
 // @ts-ignore
 import { components } from 'react-select'
 // @ts-ignore
-import { quantizeColorScales } from '@nivo/core'
+import { quantizeColorScales } from '@stu-dev/nivo-core'
 import {
     ColorSchemeId,
     ColorInterpolatorId,

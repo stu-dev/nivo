@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
 import { useState } from 'react'
-import { linearGradientDef, patternDotsDef, useTheme } from '@nivo/core'
+import { linearGradientDef, patternDotsDef, useTheme } from '@stu-dev/nivo-core'
 import { generateLibTree } from '@nivo/generators'
 import { colorSchemes } from '@nivo/colors'
 import { Sunburst, ComputedDatum, SunburstCustomLayerProps } from '@nivo/sunburst'

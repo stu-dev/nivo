@@ -1,6 +1,6 @@
 import { memo } from 'react'
 import { useTransition } from '@react-spring/web'
-import { useMotionConfig } from '@nivo/core'
+import { useMotionConfig } from '@stu-dev/nivo-core'
 import { GridLine } from './GridLine'
 import { Line } from '../types'
 

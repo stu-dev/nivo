@@ -1,6 +1,6 @@
 import { createElement, useCallback, MouseEvent } from 'react'
 import { useTransition } from '@react-spring/web'
-import { CssMixBlendMode, useMotionConfig } from '@nivo/core'
+import { CssMixBlendMode, useMotionConfig } from '@stu-dev/nivo-core'
 import { useTooltip } from '@nivo/tooltip'
 import {
     ScatterPlotCommonProps,

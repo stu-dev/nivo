@@ -1,6 +1,6 @@
 import { AriaAttributes, MouseEvent, FunctionComponent } from 'react'
 import { AnimatedProps } from '@react-spring/web'
-import { Box, Theme, Dimensions, MotionProps, CssMixBlendMode } from '@nivo/core'
+import { Box, Theme, Dimensions, MotionProps, CssMixBlendMode } from '@stu-dev/nivo-core'
 import { InheritedColorConfig } from '@nivo/colors'
 import { AnnotationMatcher } from '@nivo/annotations'
 

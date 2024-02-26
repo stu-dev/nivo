@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react'
-import { Theme } from '@nivo/core'
+import { Theme } from '@stu-dev/nivo-core'
 import { ScatterPlot, ScatterPlotSvgProps } from '@nivo/scatterplot'
 import scatterPlotLightNeutralImg from '../../assets/icons/scatterplot-light-neutral.png'
 import scatterPlotLightColoredImg from '../../assets/icons/scatterplot-light-colored.png'

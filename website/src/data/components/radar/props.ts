@@ -1,4 +1,4 @@
-import { closedCurvePropKeys } from '@nivo/core'
+import { closedCurvePropKeys } from '@stu-dev/nivo-core'
 import { svgDefaultProps } from '@nivo/radar'
 import {
     themeProperty,

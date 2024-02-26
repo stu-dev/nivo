@@ -32,7 +32,7 @@
     "dependencies": {
         "@nivo/canvas": "workspace:*",
         "@nivo/colors": "workspace:*",
-        "@nivo/core": "workspace:*",
+        "@stu-dev/nivo-core": "workspace:*",
         "@nivo/grid": "workspace:*",
         "@nivo/legends": "workspace:*",
         "@nivo/tooltip": "workspace:*",

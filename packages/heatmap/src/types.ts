@@ -8,7 +8,7 @@ import {
     MotionProps,
     PropertyAccessor,
     ValueFormat,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { AxisProps, CanvasAxisProps } from '@nivo/axes'
 import { InheritedColorConfig, ContinuousColorScaleConfig } from '@nivo/colors'
 import { AnchoredContinuousColorsLegendProps } from '@nivo/legends'

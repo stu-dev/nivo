@@ -1,6 +1,6 @@
 import { SVGProps, useMemo } from 'react'
 import { useTransition, animated } from '@react-spring/web'
-import { useMotionConfig, useTheme } from '@nivo/core'
+import { useMotionConfig, useTheme } from '@stu-dev/nivo-core'
 import { AnyScale, getScaleTicks } from '@nivo/scales'
 
 interface PolarGridProps {

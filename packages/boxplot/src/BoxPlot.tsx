@@ -8,7 +8,7 @@ import {
     bindDefs,
     useDimensions,
     useMotionConfig,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { BoxPlotAnnotations } from './BoxPlotAnnotations'
 import { BoxPlotLegends } from './BoxPlotLegends'
 import {

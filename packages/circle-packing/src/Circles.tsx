@@ -1,7 +1,7 @@
 import { createElement, useMemo, MouseEvent } from 'react'
 import * as React from 'react'
 import { useTransition, to, SpringValue } from '@react-spring/web'
-import { useMotionConfig, useTheme } from '@nivo/core'
+import { useMotionConfig, useTheme } from '@stu-dev/nivo-core'
 import { useInheritedColor } from '@nivo/colors'
 import { useTooltip } from '@nivo/tooltip'
 import { ComputedDatum, CircleComponent, MouseHandlers, CirclePackingCommonProps } from './types'

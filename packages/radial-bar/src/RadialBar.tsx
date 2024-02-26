@@ -6,7 +6,7 @@ import {
     clampArc,
     // @ts-ignore
     bindDefs,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 
 import { ArcLabelsLayer } from '@nivo/arcs'
 import { BoxLegendSvg } from '@nivo/legends'

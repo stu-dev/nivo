@@ -1,5 +1,5 @@
 import { useTransition } from '@react-spring/web'
-import { useMotionConfig } from '@nivo/core'
+import { useMotionConfig } from '@stu-dev/nivo-core'
 import { BarDatum, CommonProps, MouseEventHandlers } from './types'
 import { Bar } from './Bar'
 

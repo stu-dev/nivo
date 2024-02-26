@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react'
-import { CompleteTheme } from '@nivo/core'
+import { CompleteTheme } from '@stu-dev/nivo-core'
 import { ResponsiveHeatMap } from '@nivo/heatmap'
 import { generateXYSeries } from '@nivo/generators'
 

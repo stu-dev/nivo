@@ -1,6 +1,6 @@
 import { AriaAttributes, FunctionComponent, MouseEvent } from 'react'
 import { SpringValues } from '@react-spring/web'
-import { Box, Dimensions, Theme, SvgDefsAndFill, MotionProps, ValueFormat } from '@nivo/core'
+import { Box, Dimensions, Theme, SvgDefsAndFill, MotionProps, ValueFormat } from '@stu-dev/nivo-core'
 import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
 import { LegendProps } from '@nivo/legends'
 import { Vertex, GridCell, GridFillDirection } from '@nivo/grid'

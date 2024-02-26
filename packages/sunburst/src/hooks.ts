@@ -2,7 +2,7 @@ import { useMemo } from 'react'
 import { partition as d3Partition, hierarchy as d3Hierarchy } from 'd3-hierarchy'
 import cloneDeep from 'lodash/cloneDeep'
 import sortBy from 'lodash/sortBy'
-import { usePropertyAccessor, useTheme, useValueFormatter } from '@nivo/core'
+import { usePropertyAccessor, useTheme, useValueFormatter } from '@stu-dev/nivo-core'
 import { Arc, useArcGenerator } from '@nivo/arcs'
 import { useOrdinalColorScale, useInheritedColor, InheritedColorConfig } from '@nivo/colors'
 import {

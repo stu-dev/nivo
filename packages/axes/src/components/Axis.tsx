@@ -1,4 +1,4 @@
-import { useMotionConfig, useTheme } from '@nivo/core'
+import { useMotionConfig, useTheme } from '@stu-dev/nivo-core'
 import { AnyScale, ScaleValue } from '@nivo/scales'
 import { animated, useSpring, useTransition } from '@react-spring/web'
 import * as React from 'react'

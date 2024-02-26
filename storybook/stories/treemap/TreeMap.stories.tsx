@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
 import { generateLibTree } from '@nivo/generators'
-import { linearGradientDef, patternDotsDef } from '@nivo/core'
+import { linearGradientDef, patternDotsDef } from '@stu-dev/nivo-core'
 import { TreeMap } from '@nivo/treemap'
 
 const meta: Meta<typeof TreeMap> = {

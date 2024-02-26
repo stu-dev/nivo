@@ -7,7 +7,7 @@
  * file that was distributed with this source code.
  */
 import { forwardRef } from 'react'
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@stu-dev/nivo-core'
 import LineCanvas from './LineCanvas'
 
 const ResponsiveLineCanvas = (props, ref) => (

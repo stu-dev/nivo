@@ -1,7 +1,7 @@
 import { useMemo } from 'react'
 import { SpringValue, useTransition, to } from '@react-spring/web'
 import { line } from 'd3-shape'
-import { useMotionConfig, useTheme } from '@nivo/core'
+import { useMotionConfig, useTheme } from '@stu-dev/nivo-core'
 import { InheritedColorConfig, useInheritedColor } from '@nivo/colors'
 import { DatumWithArcAndColor, Point } from '../types'
 import { useFilteredDataBySkipAngle } from '../utils'

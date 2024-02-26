@@ -1,4 +1,4 @@
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@stu-dev/nivo-core'
 import { SwarmPlotSvgProps } from './types'
 import { SwarmPlot } from './SwarmPlot'
 

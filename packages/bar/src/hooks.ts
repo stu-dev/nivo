@@ -1,6 +1,6 @@
 import { useCallback, useMemo, useState } from 'react'
 import { useInheritedColor, useOrdinalColorScale } from '@nivo/colors'
-import { usePropertyAccessor, useTheme, useValueFormatter, Margin } from '@nivo/core'
+import { usePropertyAccessor, useTheme, useValueFormatter, Margin } from '@stu-dev/nivo-core'
 import {
     DataProps,
     BarCommonProps,

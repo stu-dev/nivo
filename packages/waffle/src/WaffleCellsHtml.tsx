@@ -1,5 +1,5 @@
 import { createElement } from 'react'
-import { Margin } from '@nivo/core'
+import { Margin } from '@stu-dev/nivo-core'
 import { Cell, Datum, CellComponent, WaffleHtmlProps } from './types'
 import { useAnimatedCells } from './hooks'
 

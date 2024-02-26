@@ -16,7 +16,7 @@ import {
     SvgDefsAndFill,
     ValueFormat,
     DatumValue as CoreDatumValue,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { OrdinalColorScaleConfig } from '@nivo/colors'
 import { LegendProps } from '@nivo/legends'
 import { ScaleSpec, Scale, TicksSpec } from '@nivo/scales'

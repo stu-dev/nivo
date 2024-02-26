@@ -2,7 +2,7 @@ import { useMemo } from 'react'
 import { useSpring, animated } from '@react-spring/web'
 import { lineRadial, CurveFactory } from 'd3-shape'
 import { ScaleLinear } from 'd3-scale'
-import { useMotionConfig, useTheme, useAnimatedPath } from '@nivo/core'
+import { useMotionConfig, useTheme, useAnimatedPath } from '@stu-dev/nivo-core'
 import { useInheritedColor } from '@nivo/colors'
 import { RadarCommonProps } from './types'
 

@@ -1,6 +1,6 @@
 import { createElement, Fragment, ReactNode } from 'react'
 import uniq from 'lodash/uniq'
-import { SvgWrapper, useDimensions, Container } from '@nivo/core'
+import { SvgWrapper, useDimensions, Container } from '@stu-dev/nivo-core'
 import { BoxLegendSvg } from '@nivo/legends'
 import { svgDefaultProps } from './props'
 import { useSankey } from './hooks'

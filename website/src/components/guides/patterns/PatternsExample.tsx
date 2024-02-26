@@ -2,7 +2,7 @@ import React from 'react'
 import { Highlight } from '../../Highlight'
 
 const code = `
-import { patternDotsDef, patternSquaresDef } from '@nivo/core'
+import { patternDotsDef, patternSquaresDef } from '@stu-dev/nivo-core'
 import { Stream } from '@nivo/stream'
 
 const MyChart = () => (

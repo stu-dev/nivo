@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { Dimensions, Theme, Box } from '@nivo/core'
+import { Dimensions, Theme, Box } from '@stu-dev/nivo-core'
 import { LegendProps } from '@nivo/legends'
 
 declare module '@nivo/geo' {

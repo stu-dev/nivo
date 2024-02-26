@@ -10,7 +10,7 @@ import {
     getRelativeCursor,
     Margin,
     Container,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { findArcUnderCursor } from '@nivo/arcs'
 import { useInheritedColor } from '@nivo/colors'
 import { renderLegendToCanvas } from '@nivo/legends'

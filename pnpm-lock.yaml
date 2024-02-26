@@ -250,7 +250,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../packages/colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../packages/core
       '@nivo/funnel':
@@ -338,7 +338,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@react-spring/web':
@@ -362,7 +362,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@react-spring/web':
@@ -380,7 +380,7 @@ importers:
 
   packages/axes:
     dependencies:
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/scales':
@@ -422,7 +422,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -467,7 +467,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -509,7 +509,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -536,7 +536,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -569,7 +569,7 @@ importers:
 
   packages/calendar:
     dependencies:
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -613,7 +613,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -646,7 +646,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/tooltip':
@@ -670,7 +670,7 @@ importers:
 
   packages/colors:
     dependencies:
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@types/d3-color':
@@ -748,7 +748,7 @@ importers:
 
   packages/express:
     dependencies:
-      '@nivo/static':
+      '@stu-dev/nivo-static':
         specifier: workspace:*
         version: link:../static
       '@types/express':
@@ -784,7 +784,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/tooltip':
@@ -838,7 +838,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -876,7 +876,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -906,7 +906,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@types/d3-scale':
@@ -936,7 +936,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -972,7 +972,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -1008,7 +1008,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/tooltip':
@@ -1035,7 +1035,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -1074,7 +1074,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -1098,7 +1098,7 @@ importers:
       '@nivo/arcs':
         specifier: workspace:*
         version: link:../arcs
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/scales':
@@ -1116,7 +1116,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -1152,7 +1152,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -1209,7 +1209,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -1275,7 +1275,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -1332,7 +1332,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/generators':
@@ -1383,7 +1383,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -1416,7 +1416,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/tooltip':
@@ -1446,7 +1446,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/legends':
@@ -1485,7 +1485,7 @@ importers:
 
   packages/tooltip:
     dependencies:
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@react-spring/web':
@@ -1497,7 +1497,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/tooltip':
@@ -1521,7 +1521,7 @@ importers:
 
   packages/voronoi:
     dependencies:
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@types/d3-delaunay':
@@ -1548,7 +1548,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
       '@nivo/grid':
@@ -1611,7 +1611,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../packages/colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../packages/core
       '@nivo/funnel':
@@ -1767,7 +1767,7 @@ importers:
       '@nivo/colors':
         specifier: workspace:*
         version: link:../packages/colors
-      '@nivo/core':
+      '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../packages/core
       '@nivo/funnel':

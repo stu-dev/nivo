@@ -1,5 +1,5 @@
 import { BoxPlotDatum, BoxPlotCommonProps, ComputedBoxPlotSummary, LegendData } from '../types'
-import { getPropertyAccessor } from '@nivo/core'
+import { getPropertyAccessor } from '@stu-dev/nivo-core'
 import uniqBy from 'lodash/uniqBy'
 import sortBy from 'lodash/sortBy'
 

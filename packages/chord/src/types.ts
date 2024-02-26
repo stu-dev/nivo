@@ -9,7 +9,7 @@ import {
     CssMixBlendMode,
     PropertyAccessor,
     ValueFormat,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
 import { LegendProps } from '@nivo/legends'
 

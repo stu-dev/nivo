@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
 import { useEffect, useMemo, useState } from 'react'
-import { Theme } from '@nivo/core'
+import { Theme } from '@stu-dev/nivo-core'
 import { categoricalColorSchemes } from '@nivo/colors'
 import {
     RadialBar,

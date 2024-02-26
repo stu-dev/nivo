@@ -12,7 +12,7 @@ import {
     isCursorInRect,
     useDimensions,
     useTheme,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import {
     ForwardedRef,
     createElement,

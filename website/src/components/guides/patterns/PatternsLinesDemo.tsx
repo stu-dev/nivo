@@ -1,5 +1,5 @@
 import React from 'react'
-import { Defs, patternLinesDef, PatternLinesDefaultProps } from '@nivo/core'
+import { Defs, patternLinesDef, PatternLinesDefaultProps } from '@stu-dev/nivo-core'
 import { ChartProperty } from '../../../types'
 import { GuideDemoBlock } from '../GuideDemoBlock'
 
@@ -81,7 +81,7 @@ const controls: ChartProperty[] = [
 const generateCode = (settings: Settings) =>
     `
 // helper
-import { patternLinesDef } from '@nivo/core'
+import { patternLinesDef } from '@stu-dev/nivo-core'
 patternLinesDef('${patternId}', ${JSON.stringify(settings, null, '  ')})
 // plain object
 ${JSON.stringify(patternLinesDef(patternId, settings), null, '    ')}

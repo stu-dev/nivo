@@ -6,8 +6,8 @@ import {
     useCurveInterpolation,
     usePropertyAccessor,
     useValueFormatter,
-} from '@nivo/core'
-import { degreesToRadians } from '@nivo/core'
+} from '@stu-dev/nivo-core'
+import { degreesToRadians } from '@stu-dev/nivo-core'
 import { useOrdinalColorScale } from '@nivo/colors'
 import { svgDefaultProps } from './props'
 import {

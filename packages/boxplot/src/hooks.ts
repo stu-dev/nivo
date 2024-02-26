@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import { SpringConfig, useTransition } from '@react-spring/web'
 import { useInheritedColor, useOrdinalColorScale } from '@nivo/colors'
-import { PropertyAccessor, usePropertyAccessor, useTheme, useValueFormatter } from '@nivo/core'
+import { PropertyAccessor, usePropertyAccessor, useTheme, useValueFormatter } from '@stu-dev/nivo-core'
 import {
     BoxPlotCommonProps,
     BoxPlotDatum,

@@ -5,7 +5,7 @@ import {
     useDimensions,
     Container,
     SvgWrapper,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { ArcLabelsLayer, ArcLinkLabelsLayer } from '@nivo/arcs'
 import { InheritedColorConfig } from '@nivo/colors'
 import { PieLegends } from './PieLegends'

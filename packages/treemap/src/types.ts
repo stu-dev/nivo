@@ -8,7 +8,7 @@ import {
     PropertyAccessor,
     MotionProps,
     SvgDefsAndFill,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { InheritedColorConfig, OrdinalColorScaleConfig, DatumIdentityAccessor } from '@nivo/colors'
 import { TileType } from './tiling'
 

@@ -1,5 +1,5 @@
 import { createElement, Fragment, ReactNode } from 'react'
-import { Container, useDimensions, SvgWrapper } from '@nivo/core'
+import { Container, useDimensions, SvgWrapper } from '@stu-dev/nivo-core'
 import { OrdinalColorScaleConfig } from '@nivo/colors'
 import { BoxLegendSvg } from '@nivo/legends'
 import { Datum, WaffleSvgProps, LayerId, TooltipComponent } from './types'

@@ -13,7 +13,7 @@ import {
     useTheme,
     getRelativeCursor,
     isCursorInRect,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { renderAxesToCanvas, renderGridLinesToCanvas } from '@nivo/axes'
 import { renderLegendToCanvas } from '@nivo/legends'
 import { useTooltip } from '@nivo/tooltip'

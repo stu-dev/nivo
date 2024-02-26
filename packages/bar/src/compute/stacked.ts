@@ -1,4 +1,4 @@
-import { Margin } from '@nivo/core'
+import { Margin } from '@stu-dev/nivo-core'
 import { OrdinalColorScale } from '@nivo/colors'
 import { Scale, ScaleBand, computeScale } from '@nivo/scales'
 import { Series, SeriesPoint, stack, stackOffsetDiverging } from 'd3-shape'

@@ -1,6 +1,6 @@
 import { FunctionComponent } from 'react'
 import Joi from 'joi'
-import { Dimensions } from '@nivo/core'
+import { Dimensions } from '@stu-dev/nivo-core'
 import { TreeMap, TreeMapSvgProps } from '@nivo/treemap'
 import { custom } from './common'
 import { ordinalColors, inheritedColor } from './commons/colors'

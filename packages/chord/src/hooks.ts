@@ -3,7 +3,7 @@ import {
     useValueFormatter,
     // @ts-ignore
     getLabelGenerator,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { OrdinalColorScale, useOrdinalColorScale } from '@nivo/colors'
 import { computeChordLayout, computeChordGenerators, computeChordArcsAndRibbons } from './compute'
 import { ArcDatum, ChordCommonProps, ChordDataProps, CustomLayerProps, RibbonDatum } from './types'

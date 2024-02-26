@@ -25,7 +25,7 @@
         "@nivo/chord": "workspace:*",
         "@nivo/circle-packing": "workspace:*",
         "@nivo/colors": "workspace:*",
-        "@nivo/core": "workspace:*",
+        "@stu-dev/nivo-core": "workspace:*",
         "@nivo/funnel": "workspace:*",
         "@nivo/generators": "workspace:*",
         "@nivo/heatmap": "workspace:*",

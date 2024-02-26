@@ -1,5 +1,5 @@
 import { createElement, Fragment, ReactNode, useMemo } from 'react'
-import { SvgWrapper, Container, useDimensions, CartesianMarkers } from '@nivo/core'
+import { SvgWrapper, Container, useDimensions, CartesianMarkers } from '@stu-dev/nivo-core'
 import { Axes, Grid } from '@nivo/axes'
 import { BoxLegendSvg } from '@nivo/legends'
 import { useScatterPlot } from './hooks'

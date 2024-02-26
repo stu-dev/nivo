@@ -5,7 +5,7 @@ import {
     useDimensions,
     SvgWrapper,
     Container,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { Grid, Axes } from '@nivo/axes'
 import { useAreaBump } from './hooks'
 import { Area } from './Area'

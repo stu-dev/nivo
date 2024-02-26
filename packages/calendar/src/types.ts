@@ -1,4 +1,4 @@
-import { Box, BoxAlign, CompleteTheme, Dimensions, Theme, ValueFormat } from '@nivo/core'
+import { Box, BoxAlign, CompleteTheme, Dimensions, Theme, ValueFormat } from '@stu-dev/nivo-core'
 import { LegendProps } from '@nivo/legends'
 
 export type BBox = Record<'x' | 'y' | 'height' | 'width', number>

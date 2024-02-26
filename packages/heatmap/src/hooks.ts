@@ -1,5 +1,5 @@
 import { useMemo, useCallback, useState } from 'react'
-import { useTheme, usePropertyAccessor, useValueFormatter } from '@nivo/core'
+import { useTheme, usePropertyAccessor, useValueFormatter } from '@stu-dev/nivo-core'
 import { useInheritedColor, getContinuousColorScale } from '@nivo/colors'
 import { AnnotationMatcher, useAnnotations } from '@nivo/annotations'
 import {

@@ -1,5 +1,5 @@
 import { useSpring, animated } from '@react-spring/web'
-import { useMotionConfig, useTheme } from '@nivo/core'
+import { useMotionConfig, useTheme } from '@stu-dev/nivo-core'
 
 export const CircleAnnotationOutline = ({ x, y, size }: { x: number; y: number; size: number }) => {
     const theme = useTheme()

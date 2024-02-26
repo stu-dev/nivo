@@ -1,5 +1,5 @@
 import { useSpring, animated } from '@react-spring/web'
-import { useMotionConfig } from '@nivo/core'
+import { useMotionConfig } from '@stu-dev/nivo-core'
 
 export interface StreamDotsItemProps {
     x: number

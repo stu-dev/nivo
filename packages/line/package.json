@@ -32,7 +32,7 @@
         "@nivo/annotations": "workspace:*",
         "@nivo/axes": "workspace:*",
         "@nivo/colors": "workspace:*",
-        "@nivo/core": "workspace:*",
+        "@stu-dev/nivo-core": "workspace:*",
         "@nivo/legends": "workspace:*",
         "@nivo/scales": "workspace:*",
         "@nivo/tooltip": "workspace:*",

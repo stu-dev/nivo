@@ -5,7 +5,7 @@ import {
     useMotionConfig,
     // @ts-ignore
     useMeasure,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { TooltipStateContextDataVisible } from './context'
 
 const TOOLTIP_OFFSET = 14

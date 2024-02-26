@@ -1,4 +1,4 @@
-import { patternDotsDef, patternSquaresDef } from '@nivo/core'
+import { patternDotsDef, patternSquaresDef } from '@stu-dev/nivo-core'
 import { defaultProps, svgDefaultProps } from '@nivo/stream'
 
 export default {

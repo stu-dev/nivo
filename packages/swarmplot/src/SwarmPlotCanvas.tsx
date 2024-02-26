@@ -1,7 +1,7 @@
 import { createElement, useCallback, useEffect, useRef, useState } from 'react'
 import * as React from 'react'
 import isNumber from 'lodash/isNumber'
-import { Container, getRelativeCursor, isCursorInRect, useDimensions, useTheme } from '@nivo/core'
+import { Container, getRelativeCursor, isCursorInRect, useDimensions, useTheme } from '@stu-dev/nivo-core'
 import { InheritedColorConfig, OrdinalColorScaleConfig, useInheritedColor } from '@nivo/colors'
 import { AnyScale } from '@nivo/scales'
 import { renderAxesToCanvas, renderGridLinesToCanvas } from '@nivo/axes'

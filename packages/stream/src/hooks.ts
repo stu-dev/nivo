@@ -9,7 +9,7 @@ import {
     stackOrderFromProp,
     // @ts-ignore
     stackOffsetFromProp,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { useInheritedColor, useOrdinalColorScale } from '@nivo/colors'
 import {
     StreamCommonProps,

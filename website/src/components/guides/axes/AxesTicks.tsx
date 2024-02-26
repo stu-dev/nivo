@@ -3,7 +3,7 @@ import {
     ThemeProvider,
     // @ts-ignore
     MotionConfigProvider,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { Axis } from '@nivo/axes'
 import { linearXScale, pointXScale, timeXScale, timeXScaleHours } from './scales'
 import { FullWidthBanner, DescriptionBlock } from '../../styled'

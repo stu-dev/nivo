@@ -1,4 +1,4 @@
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@stu-dev/nivo-core'
 import { Pie } from './Pie'
 import { PieSvgProps, MayHaveLabel } from './types'
 

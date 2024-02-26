@@ -1,5 +1,5 @@
 import React from 'react'
-import { patternDotsDef, patternLinesDef } from '@nivo/core'
+import { patternDotsDef, patternLinesDef } from '@stu-dev/nivo-core'
 import { ResponsiveBar, svgDefaultProps } from '@nivo/bar'
 import { ComponentTemplate } from '../../components/components/ComponentTemplate'
 import meta from '../../data/components/bar/meta.yml'

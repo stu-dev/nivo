@@ -17,7 +17,7 @@ import {
     bindDefs,
     useDimensions,
     useMotionConfig,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { Fragment, ReactNode, createElement, useMemo } from 'react'
 import { svgDefaultProps } from './props'
 import { useTransition } from '@react-spring/web'

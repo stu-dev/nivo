@@ -1,5 +1,5 @@
 import { scaleLinear } from 'd3-scale'
-import { getValueFormatter } from '@nivo/core'
+import { getValueFormatter } from '@stu-dev/nivo-core'
 import { computeContinuousColorScaleColorStops } from '@nivo/colors'
 import {
     BoxLegendSvgProps,

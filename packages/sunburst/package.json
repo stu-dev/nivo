@@ -31,7 +31,7 @@
     "dependencies": {
         "@nivo/arcs": "workspace:*",
         "@nivo/colors": "workspace:*",
-        "@nivo/core": "workspace:*",
+        "@stu-dev/nivo-core": "workspace:*",
         "@nivo/tooltip": "workspace:*",
         "@types/d3-hierarchy": "^1.1.8",
         "d3-hierarchy": "^1.1.8",

@@ -6,7 +6,7 @@ import {
     radiansToDegrees,
     useValueFormatter,
     usePropertyAccessor,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { OrdinalColorScaleConfig, useOrdinalColorScale } from '@nivo/colors'
 import { defaultProps } from './props'
 import {

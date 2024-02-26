@@ -6,7 +6,7 @@ import {
     useDimensions,
     useTheme,
     Margin,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { roundedRect } from '@nivo/canvas'
 import { OrdinalColorScaleConfig } from '@nivo/colors'
 import { useTooltip } from '@nivo/tooltip'

@@ -1,6 +1,6 @@
 import React from 'react'
 import { useTheme } from 'styled-components'
-import { patternDotsDef, patternLinesDef, patternSquaresDef } from '@nivo/core'
+import { patternDotsDef, patternLinesDef, patternSquaresDef } from '@stu-dev/nivo-core'
 import { ResponsiveBar } from '@nivo/bar'
 import { ResponsiveStream } from '@nivo/stream'
 import { ResponsiveTreeMap } from '@nivo/treemap'

@@ -7,7 +7,7 @@ import {
     stackOffsetWiggle,
 } from 'd3-shape'
 import { ScaleLinear } from '@nivo/scales'
-import { Box, Dimensions, Theme, SvgDefsAndFill, MotionProps, ValueFormat } from '@nivo/core'
+import { Box, Dimensions, Theme, SvgDefsAndFill, MotionProps, ValueFormat } from '@stu-dev/nivo-core'
 import { AxisProps } from '@nivo/axes'
 import { OrdinalColorScaleConfig, InheritedColorConfig } from '@nivo/colors'
 import { LegendProps } from '@nivo/legends'

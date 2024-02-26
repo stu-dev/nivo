@@ -24,7 +24,7 @@ import {
     geoNaturalEarth1,
     geoGraticule,
 } from 'd3-geo'
-import { guessQuantizeColorScale, useTheme } from '@nivo/core'
+import { guessQuantizeColorScale, useTheme } from '@stu-dev/nivo-core'
 import { useInheritedColor } from '@nivo/colors'
 import { useQuantizeColorScaleLegendData } from '@nivo/legends'
 

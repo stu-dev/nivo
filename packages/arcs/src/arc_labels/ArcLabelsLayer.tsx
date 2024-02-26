@@ -1,5 +1,5 @@
 import { createElement, useMemo } from 'react'
-import { PropertyAccessor, usePropertyAccessor, radiansToDegrees, useTheme } from '@nivo/core'
+import { PropertyAccessor, usePropertyAccessor, radiansToDegrees, useTheme } from '@stu-dev/nivo-core'
 import { useInheritedColor } from '@nivo/colors'
 import { useArcCentersTransition } from '../centers'
 import { ArcTransitionMode } from '../arcTransitionMode'

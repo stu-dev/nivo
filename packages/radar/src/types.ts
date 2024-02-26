@@ -11,7 +11,7 @@ import {
     ClosedCurveFactoryId,
     DotsItemSymbolComponent,
     SvgDefsAndFill,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
 import { LegendProps } from '@nivo/legends'
 import { ScaleLinear } from 'd3-scale'

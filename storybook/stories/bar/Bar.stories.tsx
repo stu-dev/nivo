@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/react'
 import { generateCountriesData, sets } from '@nivo/generators'
 import { random, range } from 'lodash'
-import { useTheme } from '@nivo/core'
+import { useTheme } from '@stu-dev/nivo-core'
 import { Bar, BarDatum, BarItemProps } from '@nivo/bar'
 import { AxisTickProps } from '@nivo/axes'
 

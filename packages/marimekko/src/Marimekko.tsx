@@ -5,7 +5,7 @@ import {
     Container,
     SvgWrapper,
     useDimensions,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { Grid, Axes } from '@nivo/axes'
 import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
 import { BoxLegendSvg } from '@nivo/legends'

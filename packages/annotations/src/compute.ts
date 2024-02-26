@@ -6,7 +6,7 @@ import {
     absoluteAngleDegrees,
     degreesToRadians,
     positionFromAngle,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { defaultProps } from './props'
 import {
     AnnotationPositionGetter,

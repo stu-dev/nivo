@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react'
-import { Theme } from '@nivo/core'
+import { Theme } from '@stu-dev/nivo-core'
 import { Line, LineSvgProps } from '@nivo/line'
 import lineLightNeutralImg from '../../assets/icons/line-light-neutral.png'
 import lineLightColoredImg from '../../assets/icons/line-light-colored.png'

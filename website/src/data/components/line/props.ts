@@ -1,5 +1,5 @@
 // @ts-ignore
-import { lineCurvePropKeys } from '@nivo/core'
+import { lineCurvePropKeys } from '@stu-dev/nivo-core'
 // @ts-ignore
 import { LineDefaultProps as defaults } from '@nivo/line'
 import {

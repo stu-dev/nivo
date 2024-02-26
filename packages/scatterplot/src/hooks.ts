@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { useValueFormatter, usePropertyAccessor } from '@nivo/core'
+import { useValueFormatter, usePropertyAccessor } from '@stu-dev/nivo-core'
 import { useOrdinalColorScale } from '@nivo/colors'
 import { computeXYScalesForSeries } from '@nivo/scales'
 import { useAnnotations } from '@nivo/annotations'

@@ -1,7 +1,7 @@
 import { BoxPlotSummaryFormatted, BoxPlotTooltipProps, BoxPlotSummary } from './types'
 import { Chip } from '@nivo/tooltip'
 import { memo } from 'react'
-import { useTheme, CompleteTheme } from '@nivo/core'
+import { useTheme, CompleteTheme } from '@stu-dev/nivo-core'
 
 interface BoxPlotSummaryTooltipProps {
     label: string

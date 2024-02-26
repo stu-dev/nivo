@@ -5,7 +5,7 @@ import {
     Container,
     SvgWrapper,
     useDimensions,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { ArcLabelsLayer } from '@nivo/arcs'
 import { defaultProps } from './props'
 import { useSunburst, useSunburstLayerContext } from './hooks'

@@ -2,7 +2,7 @@ import React from 'react'
 import { Highlight } from '../../Highlight'
 
 const code = `
-import { linearGradientDef } from '@nivo/core'
+import { linearGradientDef } from '@stu-dev/nivo-core'
 import { Stream } from '@nivo/stream'
 
 const MyChart = () => (

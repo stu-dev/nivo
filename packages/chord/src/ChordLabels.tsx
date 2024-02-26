@@ -6,8 +6,8 @@ import {
     // @ts-ignore
     getPolarLabelProps,
     useTheme,
-} from '@nivo/core'
-import { useMotionConfig } from '@nivo/core'
+} from '@stu-dev/nivo-core'
+import { useMotionConfig } from '@stu-dev/nivo-core'
 import { ArcDatum, ChordCommonProps } from './types'
 import { useInheritedColor } from '@nivo/colors'
 

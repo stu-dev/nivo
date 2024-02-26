@@ -1,5 +1,5 @@
 import { useCallback } from 'react'
-import { PropertyAccessor, usePropertyAccessor, useTheme } from '@nivo/core'
+import { PropertyAccessor, usePropertyAccessor, useTheme } from '@stu-dev/nivo-core'
 import { InheritedColorConfig, useInheritedColor } from '@nivo/colors'
 import { DatumWithArcAndColor } from '../types'
 import { ArcLinkWithDatum, ArcLinkLabel } from './types'

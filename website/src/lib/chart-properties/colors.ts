@@ -1,4 +1,4 @@
-import { CssMixBlendMode } from '@nivo/core'
+import { CssMixBlendMode } from '@stu-dev/nivo-core'
 import { OrdinalColorScaleConfig } from '@nivo/colors'
 import { ChartProperty, Flavor } from '../../types'
 

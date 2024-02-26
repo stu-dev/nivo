@@ -8,7 +8,7 @@ import {
     useTheme,
     getRelativeCursor,
     getDistance,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { useInheritedColor, useOrdinalColorScale } from '@nivo/colors'
 import {
     CirclePackingCommonProps,

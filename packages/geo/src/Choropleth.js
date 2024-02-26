@@ -7,7 +7,7 @@
  * file that was distributed with this source code.
  */
 import { memo, Fragment, useCallback } from 'react'
-import { SvgWrapper, withContainer, useDimensions, useTheme, bindDefs } from '@nivo/core'
+import { SvgWrapper, withContainer, useDimensions, useTheme, bindDefs } from '@stu-dev/nivo-core'
 import { BoxLegendSvg } from '@nivo/legends'
 import { useTooltip } from '@nivo/tooltip'
 import { ChoroplethPropTypes } from './props'

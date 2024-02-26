@@ -1,4 +1,4 @@
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@stu-dev/nivo-core'
 import { DefaultLink, DefaultNode, SankeySvgProps } from './types'
 import { Sankey } from './Sankey'
 

@@ -5,7 +5,7 @@ import {
     useDimensions,
     Container,
     SvgWrapper,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
 import { CirclePackingLayerId, CirclePackingSvgProps, ComputedDatum } from './types'
 import { useCirclePacking, useCirclePackingZoom, useCirclePackingLayerContext } from './hooks'

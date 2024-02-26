@@ -7,7 +7,7 @@ import {
     useValueFormatter,
     // @ts-ignore
     bindDefs,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { useTooltip } from '@nivo/tooltip'
 import { OrdinalColorScaleConfig, useInheritedColor, useOrdinalColorScale } from '@nivo/colors'
 import { generateGrid, GridCell, GridFillDirection, Vertex, getCellsPolygons } from '@nivo/grid'

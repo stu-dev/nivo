@@ -7,7 +7,7 @@ import {
     PropertyAccessor,
     ValueFormat,
     SvgDefsAndFill,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { Arc, ArcGenerator, ArcLabelsProps, ArcTransitionMode } from '@nivo/arcs'
 import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
 import { LegendProps } from '@nivo/legends'

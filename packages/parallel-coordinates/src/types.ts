@@ -1,6 +1,6 @@
 import { AriaAttributes, FunctionComponent } from 'react'
 import { Line } from 'd3-shape'
-import { Box, Dimensions, MotionProps, LineCurveFactoryId, Theme, ValueFormat } from '@nivo/core'
+import { Box, Dimensions, MotionProps, LineCurveFactoryId, Theme, ValueFormat } from '@stu-dev/nivo-core'
 import { OrdinalColorScaleConfig } from '@nivo/colors'
 import { AxisProps } from '@nivo/axes'
 import { ScaleLinear } from '@nivo/scales'

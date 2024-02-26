@@ -9,7 +9,7 @@ import {
     CssMixBlendMode,
     CartesianMarkerProps,
     PropertyAccessor,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { AnyScale, ScaleSpec } from '@nivo/scales'
 import { OrdinalColorScaleConfig } from '@nivo/colors'
 import { AxisProps, GridValues } from '@nivo/axes'

@@ -1,5 +1,5 @@
 import React from 'react'
-import { CompleteTheme } from '@nivo/core'
+import { CompleteTheme } from '@stu-dev/nivo-core'
 import { ResponsiveBar } from '@nivo/bar'
 import { colorSchemes } from '@nivo/colors'
 

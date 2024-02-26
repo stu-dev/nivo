@@ -1,5 +1,5 @@
 import { createElement } from 'react'
-import { useTheme } from '@nivo/core'
+import { useTheme } from '@stu-dev/nivo-core'
 import { InheritedColorConfig, useInheritedColor } from '@nivo/colors'
 import { DatumWithArcAndColor, ArcGenerator } from './types'
 import { useArcsTransition } from './useArcsTransition'

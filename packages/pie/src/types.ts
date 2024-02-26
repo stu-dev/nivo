@@ -7,7 +7,7 @@ import {
     MotionProps,
     ValueFormat,
     PropertyAccessor,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import {
     Arc,
     ArcGenerator,

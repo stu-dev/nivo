@@ -1,5 +1,5 @@
 import { createElement, Fragment, ReactNode } from 'react'
-import { Container, SvgWrapper, useDimensions } from '@nivo/core'
+import { Container, SvgWrapper, useDimensions } from '@stu-dev/nivo-core'
 import { BoxLegendSvg } from '@nivo/legends'
 import { svgDefaultProps } from './defaults'
 import { useChord, useChordSelection, useCustomLayerProps } from './hooks'

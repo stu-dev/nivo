@@ -1,4 +1,4 @@
-import { CompleteTheme } from '@nivo/core'
+import { CompleteTheme } from '@stu-dev/nivo-core'
 import { ComputedAnnotation } from './types'
 import { isCanvasNote, isCircleAnnotation, isDotAnnotation, isRectAnnotation } from './utils'
 

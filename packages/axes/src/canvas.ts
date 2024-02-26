@@ -1,4 +1,4 @@
-import { degreesToRadians, CompleteTheme } from '@nivo/core'
+import { degreesToRadians, CompleteTheme } from '@stu-dev/nivo-core'
 import { ScaleValue, AnyScale, TicksSpec } from '@nivo/scales'
 import { computeCartesianTicks, getFormatter, computeGridLines } from './compute'
 import { positions } from './props'

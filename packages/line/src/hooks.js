@@ -8,7 +8,7 @@
  */
 import { useCallback, useMemo, useState } from 'react'
 import { area, line } from 'd3-shape'
-import { curveFromProp, useTheme, useValueFormatter } from '@nivo/core'
+import { curveFromProp, useTheme, useValueFormatter } from '@stu-dev/nivo-core'
 import { useOrdinalColorScale, useInheritedColor } from '@nivo/colors'
 import { computeXYScalesForSeries } from '@nivo/scales'
 import { LineDefaultProps } from './props'

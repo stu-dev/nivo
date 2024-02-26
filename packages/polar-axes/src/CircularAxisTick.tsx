@@ -1,5 +1,5 @@
 import { animated } from '@react-spring/web'
-import { useTheme } from '@nivo/core'
+import { useTheme } from '@stu-dev/nivo-core'
 import { CircularAxisTickProps } from './types'
 
 export const CircularAxisTick = ({ label, animated: animatedProps }: CircularAxisTickProps) => {

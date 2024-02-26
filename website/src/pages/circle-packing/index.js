@@ -1,5 +1,5 @@
 import React from 'react'
-import { patternLinesDef } from '@nivo/core'
+import { patternLinesDef } from '@stu-dev/nivo-core'
 import { ResponsiveCirclePacking, defaultProps } from '@nivo/circle-packing'
 import { generateLibTree } from '@nivo/generators'
 import { ComponentTemplate } from '../../components/components/ComponentTemplate'

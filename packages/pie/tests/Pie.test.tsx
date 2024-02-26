@@ -1,6 +1,6 @@
 import { create, act } from 'react-test-renderer'
 import { Globals } from '@react-spring/web'
-import { linearGradientDef, radiansToDegrees } from '@nivo/core'
+import { linearGradientDef, radiansToDegrees } from '@stu-dev/nivo-core'
 import {
     ArcShape,
     ArcLabelsLayer,

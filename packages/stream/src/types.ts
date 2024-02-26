@@ -10,7 +10,7 @@ import {
     AreaCurve,
     SvgDefsAndFill,
     ValueFormat,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { AxisProps, GridValues } from '@nivo/axes'
 import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
 import { LegendProps } from '@nivo/legends'

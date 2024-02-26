@@ -5,7 +5,7 @@ import {
     // @ts-ignore
     midAngle,
     useMotionConfig,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { useInheritedColor } from '@nivo/colors'
 import { ChordRibbon } from './ChordRibbon'
 import {

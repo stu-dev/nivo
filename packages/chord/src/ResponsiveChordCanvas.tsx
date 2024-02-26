@@ -1,4 +1,4 @@
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@stu-dev/nivo-core'
 import { ChordCanvas } from './ChordCanvas'
 import { ChordCanvasProps } from './types'
 

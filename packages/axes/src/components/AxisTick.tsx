@@ -1,7 +1,7 @@
 import { useMemo, memo } from 'react'
 import * as React from 'react'
 import { animated } from '@react-spring/web'
-import { useTheme } from '@nivo/core'
+import { useTheme } from '@stu-dev/nivo-core'
 import { ScaleValue } from '@nivo/scales'
 import { AxisTickProps } from '../types'
 

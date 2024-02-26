@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react'
-import { Theme } from '@nivo/core'
+import { Theme } from '@stu-dev/nivo-core'
 import { AreaBump, AreaBumpSvgProps, AreaBumpSerieExtraProps } from '@nivo/bump'
 import areaBumpLightNeutralImg from '../../assets/icons/area-bump-light-neutral.png'
 import areaBumpLightColoredImg from '../../assets/icons/area-bump-light-colored.png'

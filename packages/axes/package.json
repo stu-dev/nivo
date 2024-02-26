@@ -27,7 +27,7 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/core": "workspace:*",
+        "@stu-dev/nivo-core": "workspace:*",
         "@nivo/scales": "workspace:*",
         "@react-spring/web": "9.4.5 || ^9.7.2",
         "@types/d3-format": "^1.4.1",

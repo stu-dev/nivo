@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/react'
 import range from 'lodash/range'
 import random from 'lodash/random'
-import { areaCurvePropKeys } from '@nivo/core'
+import { areaCurvePropKeys } from '@stu-dev/nivo-core'
 import { Stream } from '@nivo/stream'
 
 const meta: Meta<typeof Stream> = {

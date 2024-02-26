@@ -7,7 +7,7 @@
  * file that was distributed with this source code.
  */
 import PropTypes from 'prop-types'
-import { lineCurvePropType, blendModePropType, motionPropTypes, defsPropTypes } from '@nivo/core'
+import { lineCurvePropType, blendModePropType, motionPropTypes, defsPropTypes } from '@stu-dev/nivo-core'
 import { ordinalColorsPropType } from '@nivo/colors'
 import { axisPropType } from '@nivo/axes'
 import { LegendPropShape } from '@nivo/legends'

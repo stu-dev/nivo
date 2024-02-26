@@ -1,4 +1,4 @@
-import { PropertyAccessor } from '@nivo/core'
+import { PropertyAccessor } from '@stu-dev/nivo-core'
 import { InheritedColorConfig } from '@nivo/colors'
 import { ArcLabelComponent } from './ArcLabelsLayer'
 import { DatumWithArcAndColor } from '../types'

@@ -5,7 +5,7 @@ import {
     useDimensions,
     // @ts-ignore
     bindDefs,
-} from '@nivo/core'
+} from '@stu-dev/nivo-core'
 import { useTreeMap, useCustomLayerProps } from './hooks'
 import { TreeMapNodes } from './TreeMapNodes'
 import {

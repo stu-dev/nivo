@@ -1,4 +1,4 @@
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@stu-dev/nivo-core'
 import { BaseDatum, ParallelCoordinatesCanvasProps } from '../types'
 import { ParallelCoordinatesCanvas } from './ParallelCoordinatesCanvas'
 

@@ -1,4 +1,4 @@
-import { CompleteTheme, degreesToRadians } from '@nivo/core'
+import { CompleteTheme, degreesToRadians } from '@stu-dev/nivo-core'
 import {
     computeDimensions,
     computePositionFromAnchor,
