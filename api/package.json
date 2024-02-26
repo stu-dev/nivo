@@ -1,6 +1,6 @@
 {
     "name": "@stu-dev/nivo-api",
-    "version": "0.84.4",
+    "version": "0.84.6",
     "private": true,
     "description": "Rendering API for nivo dataviz React/d3 components",
     "main": "src/app.js",

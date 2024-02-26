@@ -1,7 +1,7 @@
 {
     "name": "@stu-dev/nivo-legends",
     "description": "legend components for nivo dataviz library",
-    "version": "0.84.4",
+    "version": "0.84.6",
     "license": "MIT",
     "author": {
         "name": "Raphaël Benitte",
