@@ -1,6 +1,6 @@
 {
     "name": "@stu-dev/nivo-bullet",
-    "version": "0.84.3",
+    "version": "0.84.4",
     "license": "MIT",
     "author": {
         "name": "Raphaël Benitte",
@@ -29,13 +29,13 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
+        "@react-spring/web": "9.4.5 || ^9.7.2",
         "@stu-dev/nivo-axes": "workspace:*",
         "@stu-dev/nivo-colors": "workspace:*",
         "@stu-dev/nivo-core": "workspace:*",
         "@stu-dev/nivo-legends": "workspace:*",
         "@stu-dev/nivo-scales": "workspace:*",
-        "@stu-dev/nivo-tooltip": "workspace:*",
-        "@react-spring/web": "9.4.5 || ^9.7.2"
+        "@stu-dev/nivo-tooltip": "workspace:*"
     },
     "peerDependencies": {
         "react": ">= 16.14.0 < 19.0.0"

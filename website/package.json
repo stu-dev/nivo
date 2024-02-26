@@ -1,9 +1,10 @@
 {
     "name": "nivo-website",
-    "version": "0.84.3",
+    "version": "0.84.4",
     "private": true,
     "description": "nivo website",
     "dependencies": {
+        "@react-spring/web": "9.4.5 || ^9.7.2",
         "@stu-dev/nivo-arcs": "workspace:*",
         "@stu-dev/nivo-axes": "workspace:*",
         "@stu-dev/nivo-bar": "workspace:*",
@@ -36,7 +37,6 @@
         "@stu-dev/nivo-treemap": "workspace:*",
         "@stu-dev/nivo-voronoi": "workspace:*",
         "@stu-dev/nivo-waffle": "workspace:*",
-        "@react-spring/web": "9.4.5 || ^9.7.2",
         "@types/d3-format": "^1.4.1",
         "@types/d3-sankey": "^0.11.2",
         "@types/d3-scale": "^3.2.3",

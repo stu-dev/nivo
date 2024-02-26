@@ -1,6 +1,6 @@
 {
     "name": "@stu-dev/nivo-core",
-    "version": "0.84.3",
+    "version": "0.84.4",
     "license": "MIT",
     "author": {
         "name": "Raphaël Benitte",
@@ -21,9 +21,9 @@
         "dist/"
     ],
     "dependencies": {
+        "@react-spring/web": "9.4.5 || ^9.7.2",
         "@stu-dev/nivo-recompose": "workspace:*",
         "@stu-dev/nivo-tooltip": "workspace:*",
-        "@react-spring/web": "9.4.5 || ^9.7.2",
         "@types/d3-shape": "^2.0.0",
         "d3-color": "^3.1.0",
         "d3-format": "^1.4.4",

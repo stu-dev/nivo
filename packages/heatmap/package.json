@@ -1,6 +1,6 @@
 {
     "name": "@stu-dev/nivo-heatmap",
-    "version": "0.84.3",
+    "version": "0.84.4",
     "license": "MIT",
     "author": {
         "name": "Raphaël Benitte",
@@ -29,6 +29,7 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
+        "@react-spring/web": "9.4.5 || ^9.7.2",
         "@stu-dev/nivo-annotations": "workspace:*",
         "@stu-dev/nivo-axes": "workspace:*",
         "@stu-dev/nivo-colors": "workspace:*",
@@ -36,7 +37,6 @@
         "@stu-dev/nivo-legends": "workspace:*",
         "@stu-dev/nivo-scales": "workspace:*",
         "@stu-dev/nivo-tooltip": "workspace:*",
-        "@react-spring/web": "9.4.5 || ^9.7.2",
         "@types/d3-scale": "^3.2.3",
         "d3-scale": "^3.2.3"
     },
