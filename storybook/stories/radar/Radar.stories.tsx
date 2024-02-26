@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { generateWinesTastes } from '@nivo/generators'
+import { generateWinesTastes } from '@stu-dev/nivo-generators'
 import { patternDotsDef, patternSquaresDef } from '@stu-dev/nivo-core'
-import { Radar, GridLabelProps } from '@nivo/radar'
+import { Radar, GridLabelProps } from '@stu-dev/nivo-radar'
 
 const meta: Meta<typeof Radar> = {
     title: 'Radar',

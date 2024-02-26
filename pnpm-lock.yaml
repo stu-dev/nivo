@@ -168,7 +168,7 @@ importers:
 
   api:
     dependencies:
-      '@nivo/express':
+      '@stu-dev/nivo-express':
         specifier: workspace:*
         version: link:../packages/express
       '@types/body-parser':
@@ -220,100 +220,100 @@ importers:
 
   cypress:
     dependencies:
-      '@nivo/arcs':
+      '@stu-dev/nivo-arcs':
         specifier: workspace:*
         version: link:../packages/arcs
-      '@nivo/axes':
+      '@stu-dev/nivo-axes':
         specifier: workspace:*
         version: link:../packages/axes
-      '@nivo/bar':
+      '@stu-dev/nivo-bar':
         specifier: workspace:*
         version: link:../packages/bar
-      '@nivo/boxplot':
+      '@stu-dev/nivo-boxplot':
         specifier: workspace:*
         version: link:../packages/boxplot
-      '@nivo/bullet':
+      '@stu-dev/nivo-bullet':
         specifier: workspace:*
         version: link:../packages/bullet
-      '@nivo/bump':
+      '@stu-dev/nivo-bump':
         specifier: workspace:*
         version: link:../packages/bump
-      '@nivo/calendar':
+      '@stu-dev/nivo-calendar':
         specifier: workspace:*
         version: link:../packages/calendar
-      '@nivo/chord':
+      '@stu-dev/nivo-chord':
         specifier: workspace:*
         version: link:../packages/chord
-      '@nivo/circle-packing':
+      '@stu-dev/nivo-circle-packing':
         specifier: workspace:*
         version: link:../packages/circle-packing
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../packages/colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../packages/core
-      '@nivo/funnel':
+      '@stu-dev/nivo-funnel':
         specifier: workspace:*
         version: link:../packages/funnel
-      '@nivo/generators':
+      '@stu-dev/nivo-generators':
         specifier: workspace:*
         version: link:../packages/generators
-      '@nivo/geo':
+      '@stu-dev/nivo-geo':
         specifier: workspace:*
         version: link:../packages/geo
-      '@nivo/heatmap':
+      '@stu-dev/nivo-heatmap':
         specifier: workspace:*
         version: link:../packages/heatmap
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../packages/legends
-      '@nivo/line':
+      '@stu-dev/nivo-line':
         specifier: workspace:*
         version: link:../packages/line
-      '@nivo/marimekko':
+      '@stu-dev/nivo-marimekko':
         specifier: workspace:*
         version: link:../packages/marimekko
-      '@nivo/network':
+      '@stu-dev/nivo-network':
         specifier: workspace:*
         version: link:../packages/network
-      '@nivo/parallel-coordinates':
+      '@stu-dev/nivo-parallel-coordinates':
         specifier: workspace:*
         version: link:../packages/parallel-coordinates
-      '@nivo/pie':
+      '@stu-dev/nivo-pie':
         specifier: workspace:*
         version: link:../packages/pie
-      '@nivo/radar':
+      '@stu-dev/nivo-radar':
         specifier: workspace:*
         version: link:../packages/radar
-      '@nivo/radial-bar':
+      '@stu-dev/nivo-radial-bar':
         specifier: workspace:*
         version: link:../packages/radial-bar
-      '@nivo/sankey':
+      '@stu-dev/nivo-sankey':
         specifier: workspace:*
         version: link:../packages/sankey
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../packages/scales
-      '@nivo/scatterplot':
+      '@stu-dev/nivo-scatterplot':
         specifier: workspace:*
         version: link:../packages/scatterplot
-      '@nivo/stream':
+      '@stu-dev/nivo-stream':
         specifier: workspace:*
         version: link:../packages/stream
-      '@nivo/sunburst':
+      '@stu-dev/nivo-sunburst':
         specifier: workspace:*
         version: link:../packages/sunburst
-      '@nivo/swarmplot':
+      '@stu-dev/nivo-swarmplot':
         specifier: workspace:*
         version: link:../packages/swarmplot
-      '@nivo/treemap':
+      '@stu-dev/nivo-treemap':
         specifier: workspace:*
         version: link:../packages/treemap
-      '@nivo/voronoi':
+      '@stu-dev/nivo-voronoi':
         specifier: workspace:*
         version: link:../packages/voronoi
-      '@nivo/waffle':
+      '@stu-dev/nivo-waffle':
         specifier: workspace:*
         version: link:../packages/waffle
     devDependencies:
@@ -335,7 +335,7 @@ importers:
 
   packages/annotations:
     dependencies:
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
@@ -359,7 +359,7 @@ importers:
 
   packages/arcs:
     dependencies:
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
@@ -383,7 +383,7 @@ importers:
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../scales
       '@react-spring/web':
@@ -413,25 +413,25 @@ importers:
 
   packages/bar:
     dependencies:
-      '@nivo/annotations':
+      '@stu-dev/nivo-annotations':
         specifier: workspace:*
         version: link:../annotations
-      '@nivo/axes':
+      '@stu-dev/nivo-axes':
         specifier: workspace:*
         version: link:../axes
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../scales
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -458,25 +458,25 @@ importers:
 
   packages/boxplot:
     dependencies:
-      '@nivo/annotations':
+      '@stu-dev/nivo-annotations':
         specifier: workspace:*
         version: link:../annotations
-      '@nivo/axes':
+      '@stu-dev/nivo-axes':
         specifier: workspace:*
         version: link:../axes
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../scales
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -503,22 +503,22 @@ importers:
 
   packages/bullet:
     dependencies:
-      '@nivo/axes':
+      '@stu-dev/nivo-axes':
         specifier: workspace:*
         version: link:../axes
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../scales
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -530,22 +530,22 @@ importers:
 
   packages/bump:
     dependencies:
-      '@nivo/axes':
+      '@stu-dev/nivo-axes':
         specifier: workspace:*
         version: link:../axes
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../scales
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -572,10 +572,10 @@ importers:
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@types/d3-scale':
@@ -607,19 +607,19 @@ importers:
 
   packages/chord:
     dependencies:
-      '@nivo/arcs':
+      '@stu-dev/nivo-arcs':
         specifier: workspace:*
         version: link:../arcs
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -643,13 +643,13 @@ importers:
 
   packages/circle-packing:
     dependencies:
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -706,10 +706,10 @@ importers:
 
   packages/core:
     dependencies:
-      '@nivo/recompose':
+      '@stu-dev/nivo-recompose':
         specifier: workspace:*
         version: link:../recompose
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -778,16 +778,16 @@ importers:
 
   packages/funnel:
     dependencies:
-      '@nivo/annotations':
+      '@stu-dev/nivo-annotations':
         specifier: workspace:*
         version: link:../annotations
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -835,16 +835,16 @@ importers:
 
   packages/geo:
     dependencies:
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       d3-format:
@@ -867,25 +867,25 @@ importers:
 
   packages/heatmap:
     dependencies:
-      '@nivo/annotations':
+      '@stu-dev/nivo-annotations':
         specifier: workspace:*
         version: link:../annotations
-      '@nivo/axes':
+      '@stu-dev/nivo-axes':
         specifier: workspace:*
         version: link:../axes
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../scales
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -903,7 +903,7 @@ importers:
 
   packages/legends:
     dependencies:
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
@@ -927,28 +927,28 @@ importers:
 
   packages/line:
     dependencies:
-      '@nivo/annotations':
+      '@stu-dev/nivo-annotations':
         specifier: workspace:*
         version: link:../annotations
-      '@nivo/axes':
+      '@stu-dev/nivo-axes':
         specifier: workspace:*
         version: link:../axes
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../scales
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
-      '@nivo/voronoi':
+      '@stu-dev/nivo-voronoi':
         specifier: workspace:*
         version: link:../voronoi
       '@react-spring/web':
@@ -966,22 +966,22 @@ importers:
 
   packages/marimekko:
     dependencies:
-      '@nivo/axes':
+      '@stu-dev/nivo-axes':
         specifier: workspace:*
         version: link:../axes
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../scales
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -1002,16 +1002,16 @@ importers:
 
   packages/network:
     dependencies:
-      '@nivo/annotations':
+      '@stu-dev/nivo-annotations':
         specifier: workspace:*
         version: link:../annotations
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -1029,22 +1029,22 @@ importers:
 
   packages/parallel-coordinates:
     dependencies:
-      '@nivo/axes':
+      '@stu-dev/nivo-axes':
         specifier: workspace:*
         version: link:../axes
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../scales
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -1068,19 +1068,19 @@ importers:
 
   packages/pie:
     dependencies:
-      '@nivo/arcs':
+      '@stu-dev/nivo-arcs':
         specifier: workspace:*
         version: link:../arcs
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@types/d3-shape':
@@ -1095,13 +1095,13 @@ importers:
 
   packages/polar-axes:
     dependencies:
-      '@nivo/arcs':
+      '@stu-dev/nivo-arcs':
         specifier: workspace:*
         version: link:../arcs
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../scales
       '@react-spring/web':
@@ -1113,16 +1113,16 @@ importers:
 
   packages/radar:
     dependencies:
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -1146,25 +1146,25 @@ importers:
 
   packages/radial-bar:
     dependencies:
-      '@nivo/arcs':
+      '@stu-dev/nivo-arcs':
         specifier: workspace:*
         version: link:../arcs
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/polar-axes':
+      '@stu-dev/nivo-polar-axes':
         specifier: workspace:*
         version: link:../polar-axes
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../scales
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -1206,16 +1206,16 @@ importers:
 
   packages/sankey:
     dependencies:
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -1266,28 +1266,28 @@ importers:
 
   packages/scatterplot:
     dependencies:
-      '@nivo/annotations':
+      '@stu-dev/nivo-annotations':
         specifier: workspace:*
         version: link:../annotations
-      '@nivo/axes':
+      '@stu-dev/nivo-axes':
         specifier: workspace:*
         version: link:../axes
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../scales
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
-      '@nivo/voronoi':
+      '@stu-dev/nivo-voronoi':
         specifier: workspace:*
         version: link:../voronoi
       '@react-spring/web':
@@ -1314,52 +1314,52 @@ importers:
 
   packages/static:
     dependencies:
-      '@nivo/arcs':
+      '@stu-dev/nivo-arcs':
         specifier: workspace:*
         version: link:../arcs
-      '@nivo/bar':
+      '@stu-dev/nivo-bar':
         specifier: workspace:*
         version: link:../bar
-      '@nivo/calendar':
+      '@stu-dev/nivo-calendar':
         specifier: workspace:*
         version: link:../calendar
-      '@nivo/chord':
+      '@stu-dev/nivo-chord':
         specifier: workspace:*
         version: link:../chord
-      '@nivo/circle-packing':
+      '@stu-dev/nivo-circle-packing':
         specifier: workspace:*
         version: link:../circle-packing
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/generators':
+      '@stu-dev/nivo-generators':
         specifier: workspace:*
         version: link:../generators
-      '@nivo/heatmap':
+      '@stu-dev/nivo-heatmap':
         specifier: workspace:*
         version: link:../heatmap
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/line':
+      '@stu-dev/nivo-line':
         specifier: workspace:*
         version: link:../line
-      '@nivo/pie':
+      '@stu-dev/nivo-pie':
         specifier: workspace:*
         version: link:../pie
-      '@nivo/radar':
+      '@stu-dev/nivo-radar':
         specifier: workspace:*
         version: link:../radar
-      '@nivo/sankey':
+      '@stu-dev/nivo-sankey':
         specifier: workspace:*
         version: link:../sankey
-      '@nivo/sunburst':
+      '@stu-dev/nivo-sunburst':
         specifier: workspace:*
         version: link:../sunburst
-      '@nivo/treemap':
+      '@stu-dev/nivo-treemap':
         specifier: workspace:*
         version: link:../treemap
       joi:
@@ -1377,22 +1377,22 @@ importers:
 
   packages/stream:
     dependencies:
-      '@nivo/axes':
+      '@stu-dev/nivo-axes':
         specifier: workspace:*
         version: link:../axes
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../scales
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -1410,16 +1410,16 @@ importers:
 
   packages/sunburst:
     dependencies:
-      '@nivo/arcs':
+      '@stu-dev/nivo-arcs':
         specifier: workspace:*
         version: link:../arcs
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@types/d3-hierarchy':
@@ -1437,28 +1437,28 @@ importers:
 
   packages/swarmplot:
     dependencies:
-      '@nivo/annotations':
+      '@stu-dev/nivo-annotations':
         specifier: workspace:*
         version: link:../annotations
-      '@nivo/axes':
+      '@stu-dev/nivo-axes':
         specifier: workspace:*
         version: link:../axes
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../scales
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
-      '@nivo/voronoi':
+      '@stu-dev/nivo-voronoi':
         specifier: workspace:*
         version: link:../voronoi
       '@react-spring/web':
@@ -1494,13 +1494,13 @@ importers:
 
   packages/treemap:
     dependencies:
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -1542,22 +1542,22 @@ importers:
 
   packages/waffle:
     dependencies:
-      '@nivo/canvas':
+      '@stu-dev/nivo-canvas':
         specifier: workspace:*
         version: link:../canvas
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../core
-      '@nivo/grid':
+      '@stu-dev/nivo-grid':
         specifier: workspace:*
         version: link:../grid
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../legends
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../tooltip
       '@react-spring/web':
@@ -1584,91 +1584,91 @@ importers:
       '@babel/preset-typescript':
         specifier: ^7.21.5
         version: 7.21.5(@babel/core@7.21.5)
-      '@nivo/axes':
+      '@stu-dev/nivo-axes':
         specifier: workspace:*
         version: link:../packages/axes
-      '@nivo/bar':
+      '@stu-dev/nivo-bar':
         specifier: workspace:*
         version: link:../packages/bar
-      '@nivo/boxplot':
+      '@stu-dev/nivo-boxplot':
         specifier: workspace:*
         version: link:../packages/boxplot
-      '@nivo/bullet':
+      '@stu-dev/nivo-bullet':
         specifier: workspace:*
         version: link:../packages/bullet
-      '@nivo/bump':
+      '@stu-dev/nivo-bump':
         specifier: workspace:*
         version: link:../packages/bump
-      '@nivo/calendar':
+      '@stu-dev/nivo-calendar':
         specifier: workspace:*
         version: link:../packages/calendar
-      '@nivo/chord':
+      '@stu-dev/nivo-chord':
         specifier: workspace:*
         version: link:../packages/chord
-      '@nivo/circle-packing':
+      '@stu-dev/nivo-circle-packing':
         specifier: workspace:*
         version: link:../packages/circle-packing
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../packages/colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../packages/core
-      '@nivo/funnel':
+      '@stu-dev/nivo-funnel':
         specifier: workspace:*
         version: link:../packages/funnel
-      '@nivo/generators':
+      '@stu-dev/nivo-generators':
         specifier: workspace:*
         version: link:../packages/generators
-      '@nivo/heatmap':
+      '@stu-dev/nivo-heatmap':
         specifier: workspace:*
         version: link:../packages/heatmap
-      '@nivo/line':
+      '@stu-dev/nivo-line':
         specifier: workspace:*
         version: link:../packages/line
-      '@nivo/marimekko':
+      '@stu-dev/nivo-marimekko':
         specifier: workspace:*
         version: link:../packages/marimekko
-      '@nivo/network':
+      '@stu-dev/nivo-network':
         specifier: workspace:*
         version: link:../packages/network
-      '@nivo/parallel-coordinates':
+      '@stu-dev/nivo-parallel-coordinates':
         specifier: workspace:*
         version: link:../packages/parallel-coordinates
-      '@nivo/pie':
+      '@stu-dev/nivo-pie':
         specifier: workspace:*
         version: link:../packages/pie
-      '@nivo/radar':
+      '@stu-dev/nivo-radar':
         specifier: workspace:*
         version: link:../packages/radar
-      '@nivo/radial-bar':
+      '@stu-dev/nivo-radial-bar':
         specifier: workspace:*
         version: link:../packages/radial-bar
-      '@nivo/sankey':
+      '@stu-dev/nivo-sankey':
         specifier: workspace:*
         version: link:../packages/sankey
-      '@nivo/scatterplot':
+      '@stu-dev/nivo-scatterplot':
         specifier: workspace:*
         version: link:../packages/scatterplot
-      '@nivo/stream':
+      '@stu-dev/nivo-stream':
         specifier: workspace:*
         version: link:../packages/stream
-      '@nivo/sunburst':
+      '@stu-dev/nivo-sunburst':
         specifier: workspace:*
         version: link:../packages/sunburst
-      '@nivo/swarmplot':
+      '@stu-dev/nivo-swarmplot':
         specifier: workspace:*
         version: link:../packages/swarmplot
-      '@nivo/tooltip':
+      '@stu-dev/nivo-tooltip':
         specifier: workspace:*
         version: link:../packages/tooltip
-      '@nivo/treemap':
+      '@stu-dev/nivo-treemap':
         specifier: workspace:*
         version: link:../packages/treemap
-      '@nivo/voronoi':
+      '@stu-dev/nivo-voronoi':
         specifier: workspace:*
         version: link:../packages/voronoi
-      '@nivo/waffle':
+      '@stu-dev/nivo-waffle':
         specifier: workspace:*
         version: link:../packages/waffle
       '@react-spring/web':
@@ -1737,100 +1737,100 @@ importers:
 
   website:
     dependencies:
-      '@nivo/arcs':
+      '@stu-dev/nivo-arcs':
         specifier: workspace:*
         version: link:../packages/arcs
-      '@nivo/axes':
+      '@stu-dev/nivo-axes':
         specifier: workspace:*
         version: link:../packages/axes
-      '@nivo/bar':
+      '@stu-dev/nivo-bar':
         specifier: workspace:*
         version: link:../packages/bar
-      '@nivo/boxplot':
+      '@stu-dev/nivo-boxplot':
         specifier: workspace:*
         version: link:../packages/boxplot
-      '@nivo/bullet':
+      '@stu-dev/nivo-bullet':
         specifier: workspace:*
         version: link:../packages/bullet
-      '@nivo/bump':
+      '@stu-dev/nivo-bump':
         specifier: workspace:*
         version: link:../packages/bump
-      '@nivo/calendar':
+      '@stu-dev/nivo-calendar':
         specifier: workspace:*
         version: link:../packages/calendar
-      '@nivo/chord':
+      '@stu-dev/nivo-chord':
         specifier: workspace:*
         version: link:../packages/chord
-      '@nivo/circle-packing':
+      '@stu-dev/nivo-circle-packing':
         specifier: workspace:*
         version: link:../packages/circle-packing
-      '@nivo/colors':
+      '@stu-dev/nivo-colors':
         specifier: workspace:*
         version: link:../packages/colors
       '@stu-dev/nivo-core':
         specifier: workspace:*
         version: link:../packages/core
-      '@nivo/funnel':
+      '@stu-dev/nivo-funnel':
         specifier: workspace:*
         version: link:../packages/funnel
-      '@nivo/generators':
+      '@stu-dev/nivo-generators':
         specifier: workspace:*
         version: link:../packages/generators
-      '@nivo/geo':
+      '@stu-dev/nivo-geo':
         specifier: workspace:*
         version: link:../packages/geo
-      '@nivo/heatmap':
+      '@stu-dev/nivo-heatmap':
         specifier: workspace:*
         version: link:../packages/heatmap
-      '@nivo/legends':
+      '@stu-dev/nivo-legends':
         specifier: workspace:*
         version: link:../packages/legends
-      '@nivo/line':
+      '@stu-dev/nivo-line':
         specifier: workspace:*
         version: link:../packages/line
-      '@nivo/marimekko':
+      '@stu-dev/nivo-marimekko':
         specifier: workspace:*
         version: link:../packages/marimekko
-      '@nivo/network':
+      '@stu-dev/nivo-network':
         specifier: workspace:*
         version: link:../packages/network
-      '@nivo/parallel-coordinates':
+      '@stu-dev/nivo-parallel-coordinates':
         specifier: workspace:*
         version: link:../packages/parallel-coordinates
-      '@nivo/pie':
+      '@stu-dev/nivo-pie':
         specifier: workspace:*
         version: link:../packages/pie
-      '@nivo/radar':
+      '@stu-dev/nivo-radar':
         specifier: workspace:*
         version: link:../packages/radar
-      '@nivo/radial-bar':
+      '@stu-dev/nivo-radial-bar':
         specifier: workspace:*
         version: link:../packages/radial-bar
-      '@nivo/sankey':
+      '@stu-dev/nivo-sankey':
         specifier: workspace:*
         version: link:../packages/sankey
-      '@nivo/scales':
+      '@stu-dev/nivo-scales':
         specifier: workspace:*
         version: link:../packages/scales
-      '@nivo/scatterplot':
+      '@stu-dev/nivo-scatterplot':
         specifier: workspace:*
         version: link:../packages/scatterplot
-      '@nivo/stream':
+      '@stu-dev/nivo-stream':
         specifier: workspace:*
         version: link:../packages/stream
-      '@nivo/sunburst':
+      '@stu-dev/nivo-sunburst':
         specifier: workspace:*
         version: link:../packages/sunburst
-      '@nivo/swarmplot':
+      '@stu-dev/nivo-swarmplot':
         specifier: workspace:*
         version: link:../packages/swarmplot
-      '@nivo/treemap':
+      '@stu-dev/nivo-treemap':
         specifier: workspace:*
         version: link:../packages/treemap
-      '@nivo/voronoi':
+      '@stu-dev/nivo-voronoi':
         specifier: workspace:*
         version: link:../packages/voronoi
-      '@nivo/waffle':
+      '@stu-dev/nivo-waffle':
         specifier: workspace:*
         version: link:../packages/waffle
       '@react-spring/web':

@@ -2,8 +2,8 @@ import {
   ResponsiveTreeMap,
   ResponsiveTreeMapCanvas,
   ResponsiveTreeMapHtml,
-} from '@nivo/treemap'
-import { generateLibTree } from '@nivo/generators'
+} from '@stu-dev/nivo-treemap'
+import { generateLibTree } from '@stu-dev/nivo-generators'
 import { useChart } from '../hooks'
 
 const props = {

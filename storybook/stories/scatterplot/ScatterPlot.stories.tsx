@@ -8,7 +8,7 @@ import {
     ScatterPlotNodeProps,
     ScatterPlotLayerProps,
     ScatterPlotNodeData,
-} from '@nivo/scatterplot'
+} from '@stu-dev/nivo-scatterplot'
 
 const meta: Meta<typeof ScatterPlot> = {
     title: 'ScatterPlot',

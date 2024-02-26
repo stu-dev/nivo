@@ -10,10 +10,10 @@ import {
     useTheme,
     useValueFormatter,
 } from '@stu-dev/nivo-core'
-import { renderLegendToCanvas } from '@nivo/legends'
+import { renderLegendToCanvas } from '@stu-dev/nivo-legends'
 import { calendarCanvasDefaultProps } from './props'
 import { useCalendarLayout, useColorScale, useMonthLegends, useYearLegends, useDays } from './hooks'
-import { useTooltip } from '@nivo/tooltip'
+import { useTooltip } from '@stu-dev/nivo-tooltip'
 import { CalendarCanvasProps } from './types'
 
 const findDayUnderCursor = (

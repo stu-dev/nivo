@@ -1,5 +1,5 @@
 import React from 'react'
-import { SwarmPlot, SwarmPlotSvgProps } from '@nivo/swarmplot'
+import { SwarmPlot, SwarmPlotSvgProps } from '@stu-dev/nivo-swarmplot'
 import swarmplotLightNeutralImg from '../../assets/icons/swarmplot-light-neutral.png'
 import swarmplotLightColoredImg from '../../assets/icons/swarmplot-light-colored.png'
 import swarmplotDarkNeutralImg from '../../assets/icons/swarmplot-dark-neutral.png'

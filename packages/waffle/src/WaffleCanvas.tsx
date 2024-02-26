@@ -7,10 +7,10 @@ import {
     useTheme,
     Margin,
 } from '@stu-dev/nivo-core'
-import { roundedRect } from '@nivo/canvas'
-import { OrdinalColorScaleConfig } from '@nivo/colors'
-import { useTooltip } from '@nivo/tooltip'
-import { renderLegendToCanvas } from '@nivo/legends'
+import { roundedRect } from '@stu-dev/nivo-canvas'
+import { OrdinalColorScaleConfig } from '@stu-dev/nivo-colors'
+import { useTooltip } from '@stu-dev/nivo-tooltip'
+import { renderLegendToCanvas } from '@stu-dev/nivo-legends'
 import { CanvasProps, Datum, isDataCell, TooltipComponent, Cell } from './types'
 import { canvasDefaultProps } from './defaults'
 import { useWaffle } from './hooks'

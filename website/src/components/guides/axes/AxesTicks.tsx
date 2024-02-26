@@ -4,7 +4,7 @@ import {
     // @ts-ignore
     MotionConfigProvider,
 } from '@stu-dev/nivo-core'
-import { Axis } from '@nivo/axes'
+import { Axis } from '@stu-dev/nivo-axes'
 import { linearXScale, pointXScale, timeXScale, timeXScaleHours } from './scales'
 import { FullWidthBanner, DescriptionBlock } from '../../styled'
 import { useAxisTheme } from './theme'

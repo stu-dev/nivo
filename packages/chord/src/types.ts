@@ -10,8 +10,8 @@ import {
     PropertyAccessor,
     ValueFormat,
 } from '@stu-dev/nivo-core'
-import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
-import { LegendProps } from '@nivo/legends'
+import { InheritedColorConfig, OrdinalColorScaleConfig } from '@stu-dev/nivo-colors'
+import { LegendProps } from '@stu-dev/nivo-legends'
 
 export type LayerId = 'ribbons' | 'arcs' | 'labels' | 'legends'
 export interface CustomLayerProps {

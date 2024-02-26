@@ -1,8 +1,8 @@
 import * as React from 'react'
 import { Dimensions, Theme, Box } from '@stu-dev/nivo-core'
-import { LegendProps } from '@nivo/legends'
+import { LegendProps } from '@stu-dev/nivo-legends'
 
-declare module '@nivo/geo' {
+declare module '@stu-dev/nivo-geo' {
     ///////////////////////////////////////////////////////////////////////////
     // Common
     ///////////////////////////////////////////////////////////////////////////

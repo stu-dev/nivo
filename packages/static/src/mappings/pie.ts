@@ -1,6 +1,6 @@
 import { FunctionComponent } from 'react'
 import Joi from 'joi'
-import { Pie, PieSvgProps } from '@nivo/pie'
+import { Pie, PieSvgProps } from '@stu-dev/nivo-pie'
 import { ordinalColors, inheritedColor } from './commons/colors'
 import { dimensions } from './commons/dimensions'
 import { OmitStrict } from '../types'

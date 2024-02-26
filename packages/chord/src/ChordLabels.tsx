@@ -9,7 +9,7 @@ import {
 } from '@stu-dev/nivo-core'
 import { useMotionConfig } from '@stu-dev/nivo-core'
 import { ArcDatum, ChordCommonProps } from './types'
-import { useInheritedColor } from '@nivo/colors'
+import { useInheritedColor } from '@stu-dev/nivo-colors'
 
 interface ChordLabelsProps {
     arcs: ArcDatum[]

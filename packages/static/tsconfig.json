@@ -5,7 +5,7 @@
     "outDir": "./dist/types",
     "rootDir": "./src",
     "paths": {
-      "@nivo/arcs": ["../arcs"]
+      "@stu-dev/nivo-arcs": ["../arcs"]
     }
   },
   "include": ["src/**/*"]

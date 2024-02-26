@@ -27,10 +27,10 @@ import {
     renderAnnotationsToCanvas,
     useAnnotations,
     useComputedAnnotations,
-} from '@nivo/annotations'
-import { renderAxesToCanvas, renderGridLinesToCanvas } from '@nivo/axes'
-import { renderLegendToCanvas } from '@nivo/legends'
-import { useTooltip } from '@nivo/tooltip'
+} from '@stu-dev/nivo-annotations'
+import { renderAxesToCanvas, renderGridLinesToCanvas } from '@stu-dev/nivo-axes'
+import { renderLegendToCanvas } from '@stu-dev/nivo-legends'
+import { useTooltip } from '@stu-dev/nivo-tooltip'
 import { useBar } from './hooks'
 
 type InnerBarCanvasProps<RawDatum extends BarDatum> = Omit<

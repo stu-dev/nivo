@@ -8,11 +8,11 @@ import {
     ValueFormat,
     SvgDefsAndFill,
 } from '@stu-dev/nivo-core'
-import { Arc, ArcGenerator, ArcLabelsProps, ArcTransitionMode } from '@nivo/arcs'
-import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
-import { LegendProps } from '@nivo/legends'
-import { ScaleLinear, ScaleBand } from '@nivo/scales'
-import { RadialAxisConfig, CircularAxisConfig } from '@nivo/polar-axes'
+import { Arc, ArcGenerator, ArcLabelsProps, ArcTransitionMode } from '@stu-dev/nivo-arcs'
+import { InheritedColorConfig, OrdinalColorScaleConfig } from '@stu-dev/nivo-colors'
+import { LegendProps } from '@stu-dev/nivo-legends'
+import { ScaleLinear, ScaleBand } from '@stu-dev/nivo-scales'
+import { RadialAxisConfig, CircularAxisConfig } from '@stu-dev/nivo-polar-axes'
 
 export interface RadialBarDatum {
     x: string

@@ -1,5 +1,5 @@
-import { ResponsiveChord, ResponsiveChordCanvas } from '@nivo/chord'
-import { generateChordData } from '@nivo/generators'
+import { ResponsiveChord, ResponsiveChordCanvas } from '@stu-dev/nivo-chord'
+import { generateChordData } from '@stu-dev/nivo-generators'
 import { useChart } from '../hooks'
 
 const props = {

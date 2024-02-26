@@ -2,9 +2,9 @@ import { useMemo } from 'react'
 import { scaleBand, scaleLinear } from 'd3-scale'
 import { arc as d3Arc } from 'd3-shape'
 import { degreesToRadians, useValueFormatter } from '@stu-dev/nivo-core'
-import { Arc } from '@nivo/arcs'
-import { useOrdinalColorScale } from '@nivo/colors'
-import { castLinearScale, castBandScale, getScaleTicks } from '@nivo/scales'
+import { Arc } from '@stu-dev/nivo-arcs'
+import { useOrdinalColorScale } from '@stu-dev/nivo-colors'
+import { castLinearScale, castBandScale, getScaleTicks } from '@stu-dev/nivo-scales'
 import { commonDefaultProps, svgDefaultProps } from './props'
 import {
     ComputedBar,

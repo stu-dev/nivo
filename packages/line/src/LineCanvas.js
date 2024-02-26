@@ -14,10 +14,10 @@ import {
     getRelativeCursor,
     isCursorInRect,
 } from '@stu-dev/nivo-core'
-import { renderAxesToCanvas, renderGridLinesToCanvas } from '@nivo/axes'
-import { renderLegendToCanvas } from '@nivo/legends'
-import { useTooltip } from '@nivo/tooltip'
-import { useVoronoiMesh, renderVoronoiToCanvas, renderVoronoiCellToCanvas } from '@nivo/voronoi'
+import { renderAxesToCanvas, renderGridLinesToCanvas } from '@stu-dev/nivo-axes'
+import { renderLegendToCanvas } from '@stu-dev/nivo-legends'
+import { useTooltip } from '@stu-dev/nivo-tooltip'
+import { useVoronoiMesh, renderVoronoiToCanvas, renderVoronoiCellToCanvas } from '@stu-dev/nivo-voronoi'
 import { LineCanvasPropTypes } from './props'
 import { useLine } from './hooks'
 import PointTooltip from './PointTooltip'

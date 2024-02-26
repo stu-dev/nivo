@@ -1,6 +1,6 @@
 import { createElement, useMemo, Fragment, ReactNode } from 'react'
 import { Container, useDimensions, SvgWrapper } from '@stu-dev/nivo-core'
-import { Grid, Axes } from '@nivo/axes'
+import { Grid, Axes } from '@stu-dev/nivo-axes'
 import {
     BumpCustomLayerProps,
     BumpDatum,

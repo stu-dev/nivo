@@ -2,8 +2,8 @@ import {
   ResponsiveCirclePacking,
   ResponsiveCirclePackingCanvas,
   ResponsiveCirclePackingHtml,
-} from '@nivo/circle-packing'
-import { generateLibTree } from '@nivo/generators'
+} from '@stu-dev/nivo-circle-packing'
+import { generateLibTree } from '@stu-dev/nivo-generators'
 import { useChart } from '../hooks'
 
 const props = {

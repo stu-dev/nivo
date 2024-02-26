@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { generateNetworkData } from '@nivo/generators'
-import { Network, NodeProps, LinkProps, NodeTooltipProps, NetworkSvgProps } from '@nivo/network'
+import { generateNetworkData } from '@stu-dev/nivo-generators'
+import { Network, NodeProps, LinkProps, NodeTooltipProps, NetworkSvgProps } from '@stu-dev/nivo-network'
 
 const meta: Meta<typeof Network> = {
     title: 'Network',

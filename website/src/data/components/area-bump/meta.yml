@@ -3,7 +3,7 @@ flavors:
     path: /area-bump/
 
 AreaBump:
-  package: '@nivo/bump'
+  package: '@stu-dev/nivo-bump'
   tags: []
   stories: []
   description: |

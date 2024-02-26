@@ -1,5 +1,5 @@
 import { degreesToRadians, CompleteTheme } from '@stu-dev/nivo-core'
-import { ScaleValue, AnyScale, TicksSpec } from '@nivo/scales'
+import { ScaleValue, AnyScale, TicksSpec } from '@stu-dev/nivo-scales'
 import { computeCartesianTicks, getFormatter, computeGridLines } from './compute'
 import { positions } from './props'
 import { AxisLegendPosition, CanvasAxisProps, ValueFormatter } from './types'

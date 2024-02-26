@@ -28,7 +28,7 @@ const Legends = () => {
                 <DescriptionBlock>
                     <p>Let's see how to add legends to your charts.</p>
                     <p>
-                        Legend components are available via the <code>@nivo/legends</code> package,
+                        Legend components are available via the <code>@stu-dev/nivo-legends</code> package,
                         however it's added as a dependency for most chart packages supporting them,
                         in most cases you won't have to add it as a direct dependency.
                     </p>

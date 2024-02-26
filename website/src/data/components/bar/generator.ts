@@ -1,4 +1,4 @@
-import { generateCountriesData } from '@nivo/generators'
+import { generateCountriesData } from '@stu-dev/nivo-generators'
 
 const dishes = [
     'hot dog',

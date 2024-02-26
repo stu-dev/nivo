@@ -1,6 +1,6 @@
 import React from 'react'
-import { ResponsiveTimeRange, timeRangeDefaultProps } from '@nivo/calendar'
-import { generateDayCounts } from '@nivo/generators'
+import { ResponsiveTimeRange, timeRangeDefaultProps } from '@stu-dev/nivo-calendar'
+import { generateDayCounts } from '@stu-dev/nivo-generators'
 import { ComponentTemplate } from '../../components/components/ComponentTemplate'
 import meta from '../../data/components/time-range/meta.yml'
 import mapper from '../../data/components/time-range/mapper'

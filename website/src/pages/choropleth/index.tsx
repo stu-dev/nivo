@@ -1,7 +1,7 @@
 import React from 'react'
 import omit from 'lodash/omit'
 import { patternDotsDef, patternLinesDef, linearGradientDef } from '@stu-dev/nivo-core'
-import { ResponsiveChoropleth, ChoroplethDefaultProps } from '@nivo/geo'
+import { ResponsiveChoropleth, ChoroplethDefaultProps } from '@stu-dev/nivo-geo'
 import { ComponentTemplate } from '../../components/components/ComponentTemplate'
 import meta from '../../data/components/choropleth/meta.yml'
 import mapper from '../../data/components/geo/mapper'

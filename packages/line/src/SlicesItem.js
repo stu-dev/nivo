@@ -8,7 +8,7 @@
  */
 import { createElement, memo, useCallback } from 'react'
 import PropTypes from 'prop-types'
-import { useTooltip } from '@nivo/tooltip'
+import { useTooltip } from '@stu-dev/nivo-tooltip'
 
 const SlicesItem = ({
     slice,

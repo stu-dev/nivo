@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react'
-import { generateLibTree } from '@nivo/generators'
-import { TreeMap } from '@nivo/treemap'
+import { generateLibTree } from '@stu-dev/nivo-generators'
+import { TreeMap } from '@stu-dev/nivo-treemap'
 import { useHomeTheme } from './theme'
 import { dimensions } from './dimensions'
 

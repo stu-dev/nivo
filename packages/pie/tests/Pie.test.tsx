@@ -7,8 +7,8 @@ import {
     ArcLabelComponent as ArcLabel,
     ArcLinkLabelsLayer,
     ArcLinkLabelComponent as ArcLinkLabel,
-} from '@nivo/arcs'
-import { LegendSvgItem, SymbolSquare } from '@nivo/legends'
+} from '@stu-dev/nivo-arcs'
+import { LegendSvgItem, SymbolSquare } from '@stu-dev/nivo-legends'
 // @ts-ignore
 import { Pie } from '../src/index'
 

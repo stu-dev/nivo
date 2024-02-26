@@ -9,8 +9,8 @@ import {
     useMemo,
 } from 'react'
 import { getDistance, getRelativeCursor, Container, useDimensions, useTheme } from '@stu-dev/nivo-core'
-import { useTooltip } from '@nivo/tooltip'
-import { useComputedAnnotations, renderAnnotationsToCanvas } from '@nivo/annotations'
+import { useTooltip } from '@stu-dev/nivo-tooltip'
+import { useComputedAnnotations, renderAnnotationsToCanvas } from '@stu-dev/nivo-annotations'
 import { canvasDefaultProps } from './defaults'
 import { useNetwork, useNodeAnnotations } from './hooks'
 import {

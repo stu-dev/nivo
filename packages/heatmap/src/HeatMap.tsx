@@ -1,7 +1,7 @@
 import { ReactNode, Fragment, createElement, useMemo } from 'react'
 import { SvgWrapper, Container, useDimensions } from '@stu-dev/nivo-core'
-import { Axes, Grid } from '@nivo/axes'
-import { AnchoredContinuousColorsLegendSvg } from '@nivo/legends'
+import { Axes, Grid } from '@stu-dev/nivo-axes'
+import { AnchoredContinuousColorsLegendSvg } from '@stu-dev/nivo-legends'
 import {
     DefaultHeatMapDatum,
     HeatMapDatum,

@@ -1,6 +1,6 @@
 import { mount } from 'enzyme'
 import { create, act, ReactTestRenderer } from 'react-test-renderer'
-import { LegendSvg, LegendSvgItem } from '@nivo/legends'
+import { LegendSvg, LegendSvgItem } from '@stu-dev/nivo-legends'
 import { Bar, BarDatum, BarItemProps, ComputedDatum, BarItem, BarTooltip } from '../'
 
 type IdValue = {

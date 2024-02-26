@@ -1,4 +1,4 @@
-import { defaultProps } from '@nivo/circle-packing'
+import { defaultProps } from '@stu-dev/nivo-circle-packing'
 import {
     themeProperty,
     motionProperties,

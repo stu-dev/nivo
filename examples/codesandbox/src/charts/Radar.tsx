@@ -1,5 +1,5 @@
-import { ResponsiveRadar } from '@nivo/radar'
-import { generateWinesTastes } from '@nivo/generators'
+import { ResponsiveRadar } from '@stu-dev/nivo-radar'
+import { generateWinesTastes } from '@stu-dev/nivo-generators'
 import { useChart } from '../hooks'
 
 const props = {

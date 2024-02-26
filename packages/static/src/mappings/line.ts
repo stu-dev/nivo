@@ -1,6 +1,6 @@
 import Joi from 'joi'
 import { Dimensions } from '@stu-dev/nivo-core'
-import { Line, LineSvgProps } from '@nivo/line'
+import { Line, LineSvgProps } from '@stu-dev/nivo-line'
 // @ts-ignore
 import { curvePropKeys } from '@stu-dev/nivo-core'
 import { custom, axes, blendMode } from './common'

@@ -1,8 +1,8 @@
 import type { Meta, StoryObj } from '@storybook/react'
 import { PropsWithChildren } from 'react'
-import { generateSankeyData, randColor } from '@nivo/generators'
+import { generateSankeyData, randColor } from '@stu-dev/nivo-generators'
 import { SankeyNodeMinimal } from 'd3-sankey'
-import { Sankey } from '@nivo/sankey'
+import { Sankey } from '@stu-dev/nivo-sankey'
 
 const meta: Meta<typeof Sankey> = {
     title: 'Sankey',

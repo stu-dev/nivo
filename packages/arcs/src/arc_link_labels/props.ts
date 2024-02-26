@@ -1,5 +1,5 @@
 import { PropertyAccessor } from '@stu-dev/nivo-core'
-import { InheritedColorConfig } from '@nivo/colors'
+import { InheritedColorConfig } from '@stu-dev/nivo-colors'
 import { ArcLinkLabelComponent } from './ArcLinkLabelsLayer'
 import { DatumWithArcAndColor } from '../types'
 

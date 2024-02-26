@@ -1,6 +1,6 @@
 {
-    "name": "@nivo/pie",
-    "version": "0.84.0",
+    "name": "@stu-dev/nivo-pie",
+    "version": "0.84.3",
     "license": "MIT",
     "author": {
         "name": "Raphaël Benitte",
@@ -29,11 +29,11 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/arcs": "workspace:*",
-        "@nivo/colors": "workspace:*",
+        "@stu-dev/nivo-arcs": "workspace:*",
+        "@stu-dev/nivo-colors": "workspace:*",
         "@stu-dev/nivo-core": "workspace:*",
-        "@nivo/legends": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
+        "@stu-dev/nivo-legends": "workspace:*",
+        "@stu-dev/nivo-tooltip": "workspace:*",
         "@types/d3-shape": "^2.0.0",
         "d3-shape": "^1.3.5"
     },

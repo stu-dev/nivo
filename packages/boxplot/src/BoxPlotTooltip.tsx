@@ -1,5 +1,5 @@
 import { BoxPlotSummaryFormatted, BoxPlotTooltipProps, BoxPlotSummary } from './types'
-import { Chip } from '@nivo/tooltip'
+import { Chip } from '@stu-dev/nivo-tooltip'
 import { memo } from 'react'
 import { useTheme, CompleteTheme } from '@stu-dev/nivo-core'
 

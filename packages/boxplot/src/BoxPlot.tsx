@@ -1,5 +1,5 @@
 import { Fragment, ReactNode, createElement, useMemo } from 'react'
-import { Axes, Grid } from '@nivo/axes'
+import { Axes, Grid } from '@stu-dev/nivo-axes'
 import {
     CartesianMarkers,
     Container,

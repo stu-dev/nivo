@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { Interpolation, SpringValue } from '@react-spring/web'
 import { Box, MotionProps, Theme, PropertyAccessor, ValueFormat, SvgDefsAndFill } from '@stu-dev/nivo-core'
-import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
+import { InheritedColorConfig, OrdinalColorScaleConfig } from '@stu-dev/nivo-colors'
 
 export interface ComputedDatum<RawDatum> {
     id: string

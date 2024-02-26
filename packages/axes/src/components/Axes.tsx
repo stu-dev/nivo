@@ -1,5 +1,5 @@
 import { memo } from 'react'
-import { ScaleValue, AnyScale } from '@nivo/scales'
+import { ScaleValue, AnyScale } from '@stu-dev/nivo-scales'
 import { Axis } from './Axis'
 import { positions } from '../props'
 import { AxisProps } from '../types'

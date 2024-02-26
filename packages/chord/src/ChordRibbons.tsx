@@ -6,7 +6,7 @@ import {
     midAngle,
     useMotionConfig,
 } from '@stu-dev/nivo-core'
-import { useInheritedColor } from '@nivo/colors'
+import { useInheritedColor } from '@stu-dev/nivo-colors'
 import { ChordRibbon } from './ChordRibbon'
 import {
     ChordCommonProps,

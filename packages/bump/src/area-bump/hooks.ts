@@ -1,8 +1,8 @@
 import { createElement, useMemo, useCallback, useState, MouseEvent } from 'react'
 import { area as d3Area, curveBasis, curveLinear } from 'd3-shape'
 import { useTheme } from '@stu-dev/nivo-core'
-import { useOrdinalColorScale, useInheritedColor, InheritedColorConfig } from '@nivo/colors'
-import { useTooltip } from '@nivo/tooltip'
+import { useOrdinalColorScale, useInheritedColor, InheritedColorConfig } from '@stu-dev/nivo-colors'
+import { useTooltip } from '@stu-dev/nivo-tooltip'
 import { computeSeries } from './compute'
 import {
     AreaBumpAreaPoint,

@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
 import { SpringConfig, useTransition } from '@react-spring/web'
-import { useInheritedColor, useOrdinalColorScale } from '@nivo/colors'
+import { useInheritedColor, useOrdinalColorScale } from '@stu-dev/nivo-colors'
 import { PropertyAccessor, usePropertyAccessor, useTheme, useValueFormatter } from '@stu-dev/nivo-core'
 import {
     BoxPlotCommonProps,
@@ -13,7 +13,7 @@ import {
 } from './types'
 import { defaultProps } from './props'
 import { generateBoxPlots, getLegendData, stratifyData, summarizeDistribution } from './compute'
-import { LegendProps } from '@nivo/legends'
+import { LegendProps } from '@stu-dev/nivo-legends'
 
 export const useLevels = <RawDatum extends BoxPlotDatum>(
     levels: string[] | null,

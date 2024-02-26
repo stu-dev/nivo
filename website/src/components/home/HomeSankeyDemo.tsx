@@ -1,6 +1,6 @@
 import React from 'react'
-import { generateSankeyData } from '@nivo/generators'
-import { Sankey } from '@nivo/sankey'
+import { generateSankeyData } from '@stu-dev/nivo-generators'
+import { Sankey } from '@stu-dev/nivo-sankey'
 import { useHomeTheme } from './theme'
 import { dimensions } from './dimensions'
 

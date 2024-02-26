@@ -9,7 +9,7 @@ import {
     getRelativeCursor,
     getDistance,
 } from '@stu-dev/nivo-core'
-import { useInheritedColor, useOrdinalColorScale } from '@nivo/colors'
+import { useInheritedColor, useOrdinalColorScale } from '@stu-dev/nivo-colors'
 import {
     CirclePackingCommonProps,
     CirclePackingCustomLayerProps,

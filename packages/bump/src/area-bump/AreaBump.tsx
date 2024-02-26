@@ -6,7 +6,7 @@ import {
     SvgWrapper,
     Container,
 } from '@stu-dev/nivo-core'
-import { Grid, Axes } from '@nivo/axes'
+import { Grid, Axes } from '@stu-dev/nivo-axes'
 import { useAreaBump } from './hooks'
 import { Area } from './Area'
 import { AreasLabels } from './AreasLabels'

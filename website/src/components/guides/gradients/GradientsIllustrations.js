@@ -1,10 +1,10 @@
 import React from 'react'
 import { useTheme } from 'styled-components'
 import { linearGradientDef } from '@stu-dev/nivo-core'
-import { ResponsiveBar } from '@nivo/bar'
-import { ResponsiveStream } from '@nivo/stream'
-import { ResponsiveTreeMap } from '@nivo/treemap'
-import { generateCountriesData } from '@nivo/generators'
+import { ResponsiveBar } from '@stu-dev/nivo-bar'
+import { ResponsiveStream } from '@stu-dev/nivo-stream'
+import { ResponsiveTreeMap } from '@stu-dev/nivo-treemap'
+import { generateCountriesData } from '@stu-dev/nivo-generators'
 import { FullWidthBanner } from '../../styled'
 
 const GradientsIllustrations = () => {

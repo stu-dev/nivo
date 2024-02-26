@@ -1,6 +1,6 @@
 import { ReactNode, Fragment, createElement } from 'react'
 import { Container, useDimensions, SvgWrapper } from '@stu-dev/nivo-core'
-import { BoxLegendSvg } from '@nivo/legends'
+import { BoxLegendSvg } from '@stu-dev/nivo-legends'
 import { RadarLayer } from './RadarLayer'
 import { RadarGrid } from './RadarGrid'
 import { RadarSlices } from './RadarSlices'

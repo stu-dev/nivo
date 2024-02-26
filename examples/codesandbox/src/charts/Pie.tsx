@@ -1,5 +1,5 @@
-import { ResponsivePie, ResponsivePieCanvas } from '@nivo/pie'
-import { generateProgrammingLanguageStats } from '@nivo/generators'
+import { ResponsivePie, ResponsivePieCanvas } from '@stu-dev/nivo-pie'
+import { generateProgrammingLanguageStats } from '@stu-dev/nivo-generators'
 import { useChart } from '../hooks'
 
 const props = {

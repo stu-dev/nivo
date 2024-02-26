@@ -6,9 +6,9 @@ import {
     SvgWrapper,
     useDimensions,
 } from '@stu-dev/nivo-core'
-import { Grid, Axes } from '@nivo/axes'
-import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
-import { BoxLegendSvg } from '@nivo/legends'
+import { Grid, Axes } from '@stu-dev/nivo-axes'
+import { InheritedColorConfig, OrdinalColorScaleConfig } from '@stu-dev/nivo-colors'
+import { BoxLegendSvg } from '@stu-dev/nivo-legends'
 import { SvgProps, LayerId, DimensionDatum } from './types'
 import { defaultProps } from './props'
 import { useMarimekko, useLayerContext, useLegendData } from './hooks'

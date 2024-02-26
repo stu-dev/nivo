@@ -4,7 +4,7 @@ import {
     // @ts-ignore
     getLabelGenerator,
 } from '@stu-dev/nivo-core'
-import { OrdinalColorScale, useOrdinalColorScale } from '@nivo/colors'
+import { OrdinalColorScale, useOrdinalColorScale } from '@stu-dev/nivo-colors'
 import { computeChordLayout, computeChordGenerators, computeChordArcsAndRibbons } from './compute'
 import { ArcDatum, ChordCommonProps, ChordDataProps, CustomLayerProps, RibbonDatum } from './types'
 import { commonDefaultProps } from './defaults'

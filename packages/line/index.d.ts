@@ -17,11 +17,11 @@ import {
     ValueFormat,
     DatumValue as CoreDatumValue,
 } from '@stu-dev/nivo-core'
-import { OrdinalColorScaleConfig } from '@nivo/colors'
-import { LegendProps } from '@nivo/legends'
-import { ScaleSpec, Scale, TicksSpec } from '@nivo/scales'
-import { AxisProps } from '@nivo/axes'
-import { CrosshairType } from '@nivo/tooltip'
+import { OrdinalColorScaleConfig } from '@stu-dev/nivo-colors'
+import { LegendProps } from '@stu-dev/nivo-legends'
+import { ScaleSpec, Scale, TicksSpec } from '@stu-dev/nivo-scales'
+import { AxisProps } from '@stu-dev/nivo-axes'
+import { CrosshairType } from '@stu-dev/nivo-tooltip'
 import { Line as D3Line } from 'd3-shape'
 
 type Omit<T, K extends keyof T> = Pick<T, Exclude<keyof T, K>>

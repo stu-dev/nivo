@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { generateXYSeries } from '@nivo/generators'
-import { HeatMapCanvas } from '@nivo/heatmap'
+import { generateXYSeries } from '@stu-dev/nivo-generators'
+import { HeatMapCanvas } from '@stu-dev/nivo-heatmap'
 import { CustomTooltip as CustomTooltipComponent } from './CustomTooltip'
 
 const meta: Meta<typeof HeatMapCanvas> = {

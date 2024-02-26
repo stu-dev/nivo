@@ -1,8 +1,8 @@
 import { AriaAttributes, FunctionComponent, MouseEvent } from 'react'
 import { Area, Line } from 'd3-shape'
 import { Box, Theme, Dimensions, MotionProps, ValueFormat } from '@stu-dev/nivo-core'
-import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
-import { AnnotationMatcher } from '@nivo/annotations'
+import { InheritedColorConfig, OrdinalColorScaleConfig } from '@stu-dev/nivo-colors'
+import { AnnotationMatcher } from '@stu-dev/nivo-annotations'
 import { PartTooltipProps } from './PartTooltip'
 
 export interface FunnelDatum {

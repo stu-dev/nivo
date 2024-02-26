@@ -3,7 +3,7 @@ flavors:
     path: /funnel/
 
 Funnel:
-  package: '@nivo/funnel'
+  package: '@stu-dev/nivo-funnel'
   tags:
     - experimental
   stories: []

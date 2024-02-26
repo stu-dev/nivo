@@ -8,7 +8,7 @@
  */
 import PropTypes from 'prop-types'
 import { quantizeColorScalePropType } from '@stu-dev/nivo-core'
-import { inheritedColorPropType } from '@nivo/colors'
+import { inheritedColorPropType } from '@stu-dev/nivo-colors'
 import { projectionById } from './hooks'
 import ChoroplethTooltip from './ChoroplethTooltip'
 

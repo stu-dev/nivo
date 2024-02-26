@@ -1,4 +1,4 @@
-import { Axes, Grid } from '@nivo/axes'
+import { Axes, Grid } from '@stu-dev/nivo-axes'
 import { BarAnnotations } from './BarAnnotations'
 import {
     BarCustomLayerProps,

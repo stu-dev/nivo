@@ -1,6 +1,6 @@
 import React from 'react'
-import { defaultProps, ResponsivePieCanvas } from '@nivo/pie'
-import { generateProgrammingLanguageStats } from '@nivo/generators'
+import { defaultProps, ResponsivePieCanvas } from '@stu-dev/nivo-pie'
+import { generateProgrammingLanguageStats } from '@stu-dev/nivo-generators'
 import { ComponentTemplate } from '../../components/components/ComponentTemplate'
 import meta from '../../data/components/pie/meta.yml'
 import mapper from '../../data/components/pie/mapper'

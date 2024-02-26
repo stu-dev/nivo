@@ -1,10 +1,10 @@
 import { AriaAttributes, FunctionComponent } from 'react'
 import { Line } from 'd3-shape'
 import { Box, Dimensions, MotionProps, LineCurveFactoryId, Theme, ValueFormat } from '@stu-dev/nivo-core'
-import { OrdinalColorScaleConfig } from '@nivo/colors'
-import { AxisProps } from '@nivo/axes'
-import { ScaleLinear } from '@nivo/scales'
-import { LegendProps } from '@nivo/legends'
+import { OrdinalColorScaleConfig } from '@stu-dev/nivo-colors'
+import { AxisProps } from '@stu-dev/nivo-axes'
+import { ScaleLinear } from '@stu-dev/nivo-scales'
+import { LegendProps } from '@stu-dev/nivo-legends'
 
 type FilterKeys<Datum extends BaseDatum, F> = {
     [K in keyof Datum]: Datum[K] extends F ? K : never

@@ -1,6 +1,6 @@
 {
-    "name": "@nivo/network",
-    "version": "0.84.0",
+    "name": "@stu-dev/nivo-network",
+    "version": "0.84.3",
     "license": "MIT",
     "author": {
         "name": "Raphaël Benitte",
@@ -31,10 +31,10 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/annotations": "workspace:*",
-        "@nivo/colors": "workspace:*",
+        "@stu-dev/nivo-annotations": "workspace:*",
+        "@stu-dev/nivo-colors": "workspace:*",
         "@stu-dev/nivo-core": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
+        "@stu-dev/nivo-tooltip": "workspace:*",
         "@react-spring/web": "9.4.5 || ^9.7.2",
         "@types/d3-force": "^2.1.0",
         "d3-force": "^2.0.1"

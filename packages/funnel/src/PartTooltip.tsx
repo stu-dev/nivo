@@ -1,4 +1,4 @@
-import { BasicTooltip } from '@nivo/tooltip'
+import { BasicTooltip } from '@stu-dev/nivo-tooltip'
 import { FunnelDatum, FunnelPartWithHandlers } from './types'
 
 export interface PartTooltipProps<D extends FunnelDatum> {

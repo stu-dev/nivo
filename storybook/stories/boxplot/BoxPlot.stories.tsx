@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { generateBoxPlotData } from '@nivo/generators'
-import { BoxPlot, ResponsiveBoxPlot } from '@nivo/boxplot'
+import { generateBoxPlotData } from '@stu-dev/nivo-generators'
+import { BoxPlot, ResponsiveBoxPlot } from '@stu-dev/nivo-boxplot'
 // import { action } from '@storybook/addon-actions'
 import { BoxPlotCustomGroupsAndLayers } from './BoxPlotCustomGroupsAndLayers'
 

@@ -1,4 +1,4 @@
-import { Annotation } from '@nivo/annotations'
+import { Annotation } from '@stu-dev/nivo-annotations'
 import { ComputedDatum, SwarmPlotSvgProps } from './types'
 import { useSwarmPlotAnnotations } from './hooks'
 

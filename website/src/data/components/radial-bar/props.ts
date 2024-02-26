@@ -1,5 +1,5 @@
-import { svgDefaultProps } from '@nivo/radial-bar'
-import { arcTransitionModes } from '@nivo/arcs'
+import { svgDefaultProps } from '@stu-dev/nivo-radial-bar'
+import { arcTransitionModes } from '@stu-dev/nivo-arcs'
 import {
     themeProperty,
     motionProperties,

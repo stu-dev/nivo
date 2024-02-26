@@ -1,5 +1,5 @@
 import React from 'react'
-import { TimeRange, TimeRangeSvgProps } from '@nivo/calendar'
+import { TimeRange, TimeRangeSvgProps } from '@stu-dev/nivo-calendar'
 import timeRangeLightNeutralImg from '../../assets/icons/time-range-light-neutral.png'
 import timeRangeLightColoredImg from '../../assets/icons/time-range-light-colored.png'
 import timeRangeDarkNeutralImg from '../../assets/icons/time-range-dark-neutral.png'

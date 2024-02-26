@@ -1,6 +1,6 @@
 {
-    "name": "@nivo/sunburst",
-    "version": "0.84.0",
+    "name": "@stu-dev/nivo-sunburst",
+    "version": "0.84.3",
     "license": "MIT",
     "author": {
         "name": "Raphaël Benitte",
@@ -29,10 +29,10 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/arcs": "workspace:*",
-        "@nivo/colors": "workspace:*",
+        "@stu-dev/nivo-arcs": "workspace:*",
+        "@stu-dev/nivo-colors": "workspace:*",
         "@stu-dev/nivo-core": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
+        "@stu-dev/nivo-tooltip": "workspace:*",
         "@types/d3-hierarchy": "^1.1.8",
         "d3-hierarchy": "^1.1.8",
         "lodash": "^4.17.21"

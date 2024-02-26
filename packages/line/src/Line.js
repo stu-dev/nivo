@@ -15,10 +15,10 @@ import {
     SvgWrapper,
     CartesianMarkers,
 } from '@stu-dev/nivo-core'
-import { useInheritedColor } from '@nivo/colors'
-import { Axes, Grid } from '@nivo/axes'
-import { BoxLegendSvg } from '@nivo/legends'
-import { Crosshair } from '@nivo/tooltip'
+import { useInheritedColor } from '@stu-dev/nivo-colors'
+import { Axes, Grid } from '@stu-dev/nivo-axes'
+import { BoxLegendSvg } from '@stu-dev/nivo-legends'
+import { Crosshair } from '@stu-dev/nivo-tooltip'
 import { useLine } from './hooks'
 import { LinePropTypes } from './props'
 import Areas from './Areas'

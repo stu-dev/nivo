@@ -1,8 +1,8 @@
 import { useState, useEffect, useMemo, useCallback } from 'react'
 import { forceSimulation, forceManyBody, forceCenter, forceLink } from 'd3-force'
 import { useTheme } from '@stu-dev/nivo-core'
-import { useInheritedColor } from '@nivo/colors'
-import { AnnotationMatcher, useAnnotations } from '@nivo/annotations'
+import { useInheritedColor } from '@stu-dev/nivo-colors'
+import { AnnotationMatcher, useAnnotations } from '@stu-dev/nivo-annotations'
 import { commonDefaultProps } from './defaults'
 import {
     InputLink,

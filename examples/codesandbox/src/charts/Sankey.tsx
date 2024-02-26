@@ -1,5 +1,5 @@
-import { ResponsiveSankey } from '@nivo/sankey'
-import { generateSankeyData } from '@nivo/generators'
+import { ResponsiveSankey } from '@stu-dev/nivo-sankey'
+import { generateSankeyData } from '@stu-dev/nivo-generators'
 import { useChart } from '../hooks'
 
 const props = {

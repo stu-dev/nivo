@@ -1,8 +1,8 @@
 import { useMemo } from 'react'
 import { useValueFormatter, usePropertyAccessor } from '@stu-dev/nivo-core'
-import { useOrdinalColorScale } from '@nivo/colors'
-import { computeXYScalesForSeries } from '@nivo/scales'
-import { useAnnotations } from '@nivo/annotations'
+import { useOrdinalColorScale } from '@stu-dev/nivo-colors'
+import { computeXYScalesForSeries } from '@stu-dev/nivo-scales'
+import { useAnnotations } from '@stu-dev/nivo-annotations'
 import { computePoints, getNodeSizeGenerator } from './compute'
 import {
     ScatterPlotCommonProps,

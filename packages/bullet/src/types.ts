@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { Box, Dimensions, Theme, Colors, MotionProps } from '@stu-dev/nivo-core'
-import { InheritedColorConfig } from '@nivo/colors'
-import { ScaleLinear } from '@nivo/scales'
+import { InheritedColorConfig } from '@stu-dev/nivo-colors'
+import { ScaleLinear } from '@stu-dev/nivo-scales'
 import { SpringValues } from '@react-spring/web'
 
 export type DatumId = string | number

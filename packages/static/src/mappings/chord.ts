@@ -1,7 +1,7 @@
 import { FunctionComponent } from 'react'
 import Joi from 'joi'
 import { Dimensions } from '@stu-dev/nivo-core'
-import { Chord, ChordSvgProps } from '@nivo/chord'
+import { Chord, ChordSvgProps } from '@stu-dev/nivo-chord'
 import { custom } from './common'
 import { ordinalColors, inheritedColor } from './commons/colors'
 import { dimensions } from './commons/dimensions'

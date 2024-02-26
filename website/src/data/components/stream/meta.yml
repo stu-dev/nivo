@@ -3,7 +3,7 @@ flavors:
     path: /stream/
 
 Stream:
-  package: '@nivo/stream'
+  package: '@stu-dev/nivo-stream'
   tags:
     - stacked
   stories:

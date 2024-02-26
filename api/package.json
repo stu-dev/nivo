@@ -1,6 +1,6 @@
 {
-    "name": "@nivo/api",
-    "version": "0.84.0",
+    "name": "@stu-dev/nivo-api",
+    "version": "0.84.3",
     "private": true,
     "description": "Rendering API for nivo dataviz React/d3 components",
     "main": "src/app.js",
@@ -22,7 +22,7 @@
         "nodemon": "^2.0.22"
     },
     "dependencies": {
-        "@nivo/express": "workspace:*",
+        "@stu-dev/nivo-express": "workspace:*",
         "@types/body-parser": "^1.19.2",
         "@types/cors": "^2.8.12",
         "@types/express": "^4.17.13",

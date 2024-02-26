@@ -8,9 +8,9 @@ import {
     bindDefs,
 } from '@stu-dev/nivo-core'
 
-import { ArcLabelsLayer } from '@nivo/arcs'
-import { BoxLegendSvg } from '@nivo/legends'
-import { PolarGrid, RadialAxis, CircularAxis } from '@nivo/polar-axes'
+import { ArcLabelsLayer } from '@stu-dev/nivo-arcs'
+import { BoxLegendSvg } from '@stu-dev/nivo-legends'
+import { PolarGrid, RadialAxis, CircularAxis } from '@stu-dev/nivo-polar-axes'
 import { RadialBarLayerId, RadialBarSvgProps, ComputedBar, RadialBarDatum } from './types'
 import { svgDefaultProps } from './props'
 import { useRadialBar } from './hooks'

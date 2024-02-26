@@ -5,7 +5,7 @@ import {
     generateProgrammingLanguageStats,
     generateWinesTastes,
     generateSankeyData,
-} from '@nivo/generators'
+} from '@stu-dev/nivo-generators'
 import { ChartProps, ChartType, LineApiProps } from '../mappings'
 
 const keys = ['hot dogs', 'burgers', 'sandwich', 'kebab', 'fries', 'donut']

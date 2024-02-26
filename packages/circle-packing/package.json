@@ -1,6 +1,6 @@
 {
-    "name": "@nivo/circle-packing",
-    "version": "0.84.0",
+    "name": "@stu-dev/nivo-circle-packing",
+    "version": "0.84.3",
     "license": "MIT",
     "author": {
         "name": "Raphaël Benitte",
@@ -29,9 +29,9 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/colors": "workspace:*",
+        "@stu-dev/nivo-colors": "workspace:*",
         "@stu-dev/nivo-core": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
+        "@stu-dev/nivo-tooltip": "workspace:*",
         "@react-spring/web": "9.4.5 || ^9.7.2",
         "@types/d3-hierarchy": "^1.1.8",
         "d3-hierarchy": "^1.1.8",

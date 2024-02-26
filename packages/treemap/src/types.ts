@@ -9,7 +9,7 @@ import {
     MotionProps,
     SvgDefsAndFill,
 } from '@stu-dev/nivo-core'
-import { InheritedColorConfig, OrdinalColorScaleConfig, DatumIdentityAccessor } from '@nivo/colors'
+import { InheritedColorConfig, OrdinalColorScaleConfig, DatumIdentityAccessor } from '@stu-dev/nivo-colors'
 import { TileType } from './tiling'
 
 export interface DefaultTreeMapDatum {

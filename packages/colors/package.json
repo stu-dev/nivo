@@ -1,6 +1,6 @@
 {
-    "name": "@nivo/colors",
-    "version": "0.84.0",
+    "name": "@stu-dev/nivo-colors",
+    "version": "0.84.3",
     "license": "MIT",
     "author": {
         "name": "Raphaël Benitte",

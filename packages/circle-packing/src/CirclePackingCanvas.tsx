@@ -1,8 +1,8 @@
 import { useCallback, useEffect, useRef, createElement } from 'react'
 import * as React from 'react'
 import { useDimensions, useTheme, Container } from '@stu-dev/nivo-core'
-import { InheritedColorConfig, OrdinalColorScaleConfig, useInheritedColor } from '@nivo/colors'
-import { useTooltip } from '@nivo/tooltip'
+import { InheritedColorConfig, OrdinalColorScaleConfig, useInheritedColor } from '@stu-dev/nivo-colors'
+import { useTooltip } from '@stu-dev/nivo-tooltip'
 import { CirclePackingCanvasProps, ComputedDatum } from './types'
 import { defaultProps } from './props'
 import {

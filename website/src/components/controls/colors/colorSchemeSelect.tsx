@@ -15,7 +15,7 @@ import {
     isSequentialColorScheme,
     colorSchemes,
     colorSchemeIds,
-} from '@nivo/colors'
+} from '@stu-dev/nivo-colors'
 import { ColorsControlItem } from './ColorsControlItem'
 
 export const getColorSchemeType = (scheme: ColorSchemeId | ColorInterpolatorId) => {

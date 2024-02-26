@@ -10,7 +10,7 @@ import {
     // @ts-ignore
     stackOffsetFromProp,
 } from '@stu-dev/nivo-core'
-import { useInheritedColor, useOrdinalColorScale } from '@nivo/colors'
+import { useInheritedColor, useOrdinalColorScale } from '@stu-dev/nivo-colors'
 import {
     StreamCommonProps,
     StreamCustomLayerProps,
@@ -21,7 +21,7 @@ import {
     StreamSliceData,
 } from './types'
 import { defaultProps } from './props'
-import { createLinearScale, createPointScale } from '@nivo/scales'
+import { createLinearScale, createPointScale } from '@stu-dev/nivo-scales'
 
 export const useStream = <RawDatum extends StreamDatum>({
     width,

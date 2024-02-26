@@ -1,6 +1,6 @@
 {
-    "name": "@nivo/polar-axes",
-    "version": "0.84.0",
+    "name": "@stu-dev/nivo-polar-axes",
+    "version": "0.84.3",
     "license": "MIT",
     "author": {
         "name": "Raphaël Benitte",
@@ -28,9 +28,9 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/arcs": "workspace:*",
+        "@stu-dev/nivo-arcs": "workspace:*",
         "@stu-dev/nivo-core": "workspace:*",
-        "@nivo/scales": "workspace:*",
+        "@stu-dev/nivo-scales": "workspace:*",
         "@react-spring/web": "9.4.5 || ^9.7.2"
     },
     "peerDependencies": {

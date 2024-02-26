@@ -1,7 +1,7 @@
 import React from 'react'
 import { CompleteTheme } from '@stu-dev/nivo-core'
-import { ResponsiveBar } from '@nivo/bar'
-import { colorSchemes } from '@nivo/colors'
+import { ResponsiveBar } from '@stu-dev/nivo-bar'
+import { colorSchemes } from '@stu-dev/nivo-colors'
 
 export const ThemedBar = ({ theme }: { theme: CompleteTheme }) => {
     return (

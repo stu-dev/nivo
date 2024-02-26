@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react'
-import { RadialBar } from '@nivo/radial-bar'
+import { RadialBar } from '@stu-dev/nivo-radial-bar'
 import { useHomeTheme } from './theme'
 import { dimensions } from './dimensions'
 

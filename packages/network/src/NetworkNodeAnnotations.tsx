@@ -1,4 +1,4 @@
-import { Annotation } from '@nivo/annotations'
+import { Annotation } from '@stu-dev/nivo-annotations'
 import { ComputedNode, InputLink, InputNode, NetworkSvgProps } from './types'
 import { useNodeAnnotations } from './hooks'
 

@@ -1,9 +1,9 @@
 import { FunctionComponent, MouseEvent } from 'react'
 import { Line as D3Line } from 'd3-shape'
 import { Theme, Box, Dimensions, MotionProps } from '@stu-dev/nivo-core'
-import { OrdinalColorScaleConfig, InheritedColorConfig } from '@nivo/colors'
-import { AxisProps } from '@nivo/axes'
-import { ScalePoint } from '@nivo/scales'
+import { OrdinalColorScaleConfig, InheritedColorConfig } from '@stu-dev/nivo-colors'
+import { AxisProps } from '@stu-dev/nivo-axes'
+import { ScalePoint } from '@stu-dev/nivo-scales'
 
 export interface BumpDatum {
     x: number | string

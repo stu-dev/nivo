@@ -8,9 +8,9 @@ import {
     // @ts-ignore
     bindDefs,
 } from '@stu-dev/nivo-core'
-import { useTooltip } from '@nivo/tooltip'
-import { OrdinalColorScaleConfig, useInheritedColor, useOrdinalColorScale } from '@nivo/colors'
-import { generateGrid, GridCell, GridFillDirection, Vertex, getCellsPolygons } from '@nivo/grid'
+import { useTooltip } from '@stu-dev/nivo-tooltip'
+import { OrdinalColorScaleConfig, useInheritedColor, useOrdinalColorScale } from '@stu-dev/nivo-colors'
+import { generateGrid, GridCell, GridFillDirection, Vertex, getCellsPolygons } from '@stu-dev/nivo-grid'
 import {
     CommonProps,
     ComputedDatum,

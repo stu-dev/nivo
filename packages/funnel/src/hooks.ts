@@ -1,10 +1,10 @@
 import { createElement, useMemo, useState, MouseEvent } from 'react'
 import { line, area, curveBasis, curveLinear } from 'd3-shape'
 import { ScaleLinear, scaleLinear } from 'd3-scale'
-import { useInheritedColor, useOrdinalColorScale } from '@nivo/colors'
+import { useInheritedColor, useOrdinalColorScale } from '@stu-dev/nivo-colors'
 import { useTheme, useValueFormatter } from '@stu-dev/nivo-core'
-import { useAnnotations } from '@nivo/annotations'
-import { useTooltip, TooltipActionsContextData } from '@nivo/tooltip'
+import { useAnnotations } from '@stu-dev/nivo-annotations'
+import { useTooltip, TooltipActionsContextData } from '@stu-dev/nivo-tooltip'
 import { svgDefaultProps as defaults } from './props'
 import { PartTooltip, PartTooltipProps } from './PartTooltip'
 import {

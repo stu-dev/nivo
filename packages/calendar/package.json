@@ -1,6 +1,6 @@
 {
-    "name": "@nivo/calendar",
-    "version": "0.84.0",
+    "name": "@stu-dev/nivo-calendar",
+    "version": "0.84.3",
     "license": "MIT",
     "author": {
         "name": "Raphaël Benitte",
@@ -30,8 +30,8 @@
     ],
     "dependencies": {
         "@stu-dev/nivo-core": "workspace:*",
-        "@nivo/legends": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
+        "@stu-dev/nivo-legends": "workspace:*",
+        "@stu-dev/nivo-tooltip": "workspace:*",
         "@types/d3-scale": "^3.2.3",
         "@types/d3-time": "^1.0.10",
         "@types/d3-time-format": "^3.0.0",

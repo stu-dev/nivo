@@ -6,12 +6,12 @@ import {
     SvgWrapper,
     useDimensions,
 } from '@stu-dev/nivo-core'
-import { ArcLabelsLayer } from '@nivo/arcs'
+import { ArcLabelsLayer } from '@stu-dev/nivo-arcs'
 import { defaultProps } from './props'
 import { useSunburst, useSunburstLayerContext } from './hooks'
 import { SunburstSvgProps, SunburstLayerId, SunburstLayer, ComputedDatum } from './types'
 import { Arcs } from './Arcs'
-import { InheritedColorConfig } from '@nivo/colors'
+import { InheritedColorConfig } from '@stu-dev/nivo-colors'
 
 type InnerSunburstProps<RawDatum> = Partial<
     Omit<

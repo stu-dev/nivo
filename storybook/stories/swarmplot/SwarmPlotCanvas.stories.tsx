@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { generateSwarmPlotData } from '@nivo/generators'
-import { SwarmPlotCanvas } from '@nivo/swarmplot'
+import { generateSwarmPlotData } from '@stu-dev/nivo-generators'
+import { SwarmPlotCanvas } from '@stu-dev/nivo-swarmplot'
 
 const meta: Meta<typeof SwarmPlotCanvas> = {
     title: 'SwarmPlotCanvas',

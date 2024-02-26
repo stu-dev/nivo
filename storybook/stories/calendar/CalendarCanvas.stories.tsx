@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/react'
 import { scaleQuantize } from 'd3-scale'
-import { generateDayCounts } from '@nivo/generators'
-import { CalendarCanvas, CalendarTooltipProps } from '@nivo/calendar'
+import { generateDayCounts } from '@stu-dev/nivo-generators'
+import { CalendarCanvas, CalendarTooltipProps } from '@stu-dev/nivo-calendar'
 
 const meta: Meta<typeof CalendarCanvas> = {
     title: 'CalendarCanvas',

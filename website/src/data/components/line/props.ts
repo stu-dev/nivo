@@ -1,7 +1,7 @@
 // @ts-ignore
 import { lineCurvePropKeys } from '@stu-dev/nivo-core'
 // @ts-ignore
-import { LineDefaultProps as defaults } from '@nivo/line'
+import { LineDefaultProps as defaults } from '@stu-dev/nivo-line'
 import {
     themeProperty,
     motionProperties,

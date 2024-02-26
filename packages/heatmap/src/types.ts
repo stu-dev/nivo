@@ -9,10 +9,10 @@ import {
     PropertyAccessor,
     ValueFormat,
 } from '@stu-dev/nivo-core'
-import { AxisProps, CanvasAxisProps } from '@nivo/axes'
-import { InheritedColorConfig, ContinuousColorScaleConfig } from '@nivo/colors'
-import { AnchoredContinuousColorsLegendProps } from '@nivo/legends'
-import { AnnotationMatcher } from '@nivo/annotations'
+import { AxisProps, CanvasAxisProps } from '@stu-dev/nivo-axes'
+import { InheritedColorConfig, ContinuousColorScaleConfig } from '@stu-dev/nivo-colors'
+import { AnchoredContinuousColorsLegendProps } from '@stu-dev/nivo-legends'
+import { AnnotationMatcher } from '@stu-dev/nivo-annotations'
 
 export interface HeatMapDatum {
     x: string | number

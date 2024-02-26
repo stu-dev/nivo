@@ -1,6 +1,6 @@
 import React from 'react'
-import { generateWinesTastes } from '@nivo/generators'
-import { ResponsiveRadar, RadarSvgProps, svgDefaultProps } from '@nivo/radar'
+import { generateWinesTastes } from '@stu-dev/nivo-generators'
+import { ResponsiveRadar, RadarSvgProps, svgDefaultProps } from '@stu-dev/nivo-radar'
 import { ComponentTemplate } from '../../components/components/ComponentTemplate'
 import meta from '../../data/components/radar/meta.yml'
 import mapper from '../../data/components/radar/mapper'

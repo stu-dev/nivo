@@ -14,9 +14,9 @@ import {
     ArcTransitionMode,
     ArcLabelsProps,
     ArcLinkLabelsProps,
-} from '@nivo/arcs'
-import { OrdinalColorScaleConfig, InheritedColorConfig } from '@nivo/colors'
-import { LegendProps } from '@nivo/legends'
+} from '@stu-dev/nivo-arcs'
+import { OrdinalColorScaleConfig, InheritedColorConfig } from '@stu-dev/nivo-colors'
+import { LegendProps } from '@stu-dev/nivo-legends'
 
 export type DatumId = string | number
 

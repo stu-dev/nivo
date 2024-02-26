@@ -1,5 +1,5 @@
-import { ResponsiveBar, ResponsiveBarCanvas } from '@nivo/bar'
-import { generateCountriesData } from '@nivo/generators'
+import { ResponsiveBar, ResponsiveBarCanvas } from '@stu-dev/nivo-bar'
+import { generateCountriesData } from '@stu-dev/nivo-generators'
 import { useChart } from '../hooks'
 
 const keys = ['hot dogs', 'burgers', 'sandwich', 'kebab', 'fries', 'donut']

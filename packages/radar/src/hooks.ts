@@ -8,7 +8,7 @@ import {
     useValueFormatter,
 } from '@stu-dev/nivo-core'
 import { degreesToRadians } from '@stu-dev/nivo-core'
-import { useOrdinalColorScale } from '@nivo/colors'
+import { useOrdinalColorScale } from '@stu-dev/nivo-colors'
 import { svgDefaultProps } from './props'
 import {
     RadarColorMapping,

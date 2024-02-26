@@ -1,4 +1,4 @@
-import { ResponsiveVoronoi, VoronoiDomain } from '@nivo/voronoi'
+import { ResponsiveVoronoi, VoronoiDomain } from '@stu-dev/nivo-voronoi'
 import { range } from '../utils'
 import { useChart } from '../hooks'
 

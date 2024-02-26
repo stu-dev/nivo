@@ -1,5 +1,5 @@
 import { CssMixBlendMode } from '@stu-dev/nivo-core'
-import { OrdinalColorScaleConfig } from '@nivo/colors'
+import { OrdinalColorScaleConfig } from '@stu-dev/nivo-colors'
 import { ChartProperty, Flavor } from '../../types'
 
 export const ordinalColors = ({

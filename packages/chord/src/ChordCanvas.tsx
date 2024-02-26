@@ -11,10 +11,10 @@ import {
     Margin,
     Container,
 } from '@stu-dev/nivo-core'
-import { findArcUnderCursor } from '@nivo/arcs'
-import { useInheritedColor } from '@nivo/colors'
-import { renderLegendToCanvas } from '@nivo/legends'
-import { useTooltip } from '@nivo/tooltip'
+import { findArcUnderCursor } from '@stu-dev/nivo-arcs'
+import { useInheritedColor } from '@stu-dev/nivo-colors'
+import { renderLegendToCanvas } from '@stu-dev/nivo-legends'
+import { useTooltip } from '@stu-dev/nivo-tooltip'
 import { useChord, useChordSelection, useCustomLayerProps } from './hooks'
 import { ArcDatum, ChordCanvasProps } from './types'
 import { canvasDefaultProps } from './defaults'

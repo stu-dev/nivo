@@ -1,6 +1,6 @@
 import { mount } from 'enzyme'
-import { Axis, AxisTick } from '@nivo/axes'
-import { Annotation } from '@nivo/annotations'
+import { Axis, AxisTick } from '@stu-dev/nivo-axes'
+import { Annotation } from '@stu-dev/nivo-annotations'
 // @ts-ignore
 import { CartesianMarkersItem } from '@stu-dev/nivo-core'
 // @ts-ignore

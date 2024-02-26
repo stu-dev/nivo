@@ -1,5 +1,5 @@
-import { Arc, ArcGenerator, ArcLabelsProps, ArcTransitionMode } from '@nivo/arcs'
-import { OrdinalColorScaleConfig, InheritedColorConfig } from '@nivo/colors'
+import { Arc, ArcGenerator, ArcLabelsProps, ArcTransitionMode } from '@stu-dev/nivo-arcs'
+import { OrdinalColorScaleConfig, InheritedColorConfig } from '@stu-dev/nivo-colors'
 import { Theme, Box, ValueFormat, SvgDefsAndFill, MotionProps, PropertyAccessor } from '@stu-dev/nivo-core'
 
 export type DatumId = string | number

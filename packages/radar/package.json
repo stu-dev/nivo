@@ -1,6 +1,6 @@
 {
-    "name": "@nivo/radar",
-    "version": "0.84.0",
+    "name": "@stu-dev/nivo-radar",
+    "version": "0.84.3",
     "license": "MIT",
     "author": {
         "name": "Raphaël Benitte",
@@ -29,10 +29,10 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/colors": "workspace:*",
+        "@stu-dev/nivo-colors": "workspace:*",
         "@stu-dev/nivo-core": "workspace:*",
-        "@nivo/legends": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
+        "@stu-dev/nivo-legends": "workspace:*",
+        "@stu-dev/nivo-tooltip": "workspace:*",
         "@react-spring/web": "9.4.5 || ^9.7.2",
         "@types/d3-scale": "^3.2.3",
         "@types/d3-shape": "^2.0.0",

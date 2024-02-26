@@ -8,9 +8,9 @@
  */
 import PropTypes from 'prop-types'
 import { lineCurvePropType, blendModePropType, motionPropTypes, defsPropTypes } from '@stu-dev/nivo-core'
-import { ordinalColorsPropType } from '@nivo/colors'
-import { axisPropType } from '@nivo/axes'
-import { LegendPropShape } from '@nivo/legends'
+import { ordinalColorsPropType } from '@stu-dev/nivo-colors'
+import { axisPropType } from '@stu-dev/nivo-axes'
+import { LegendPropShape } from '@stu-dev/nivo-legends'
 import PointTooltip from './PointTooltip'
 import SliceTooltip from './SliceTooltip'
 

@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { generateDayCounts } from '@nivo/generators'
-import { Calendar, CalendarTooltipProps } from '@nivo/calendar'
+import { generateDayCounts } from '@stu-dev/nivo-generators'
+import { Calendar, CalendarTooltipProps } from '@stu-dev/nivo-calendar'
 
 const meta: Meta<typeof Calendar> = {
     title: 'Calendar',

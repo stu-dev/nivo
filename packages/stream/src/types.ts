@@ -11,10 +11,10 @@ import {
     SvgDefsAndFill,
     ValueFormat,
 } from '@stu-dev/nivo-core'
-import { AxisProps, GridValues } from '@nivo/axes'
-import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
-import { LegendProps } from '@nivo/legends'
-import { ScaleLinear, ScalePoint } from '@nivo/scales'
+import { AxisProps, GridValues } from '@stu-dev/nivo-axes'
+import { InheritedColorConfig, OrdinalColorScaleConfig } from '@stu-dev/nivo-colors'
+import { LegendProps } from '@stu-dev/nivo-legends'
+import { ScaleLinear, ScalePoint } from '@stu-dev/nivo-scales'
 
 export type StreamLayerId = 'grid' | 'axes' | 'layers' | 'dots' | 'slices' | 'legends'
 

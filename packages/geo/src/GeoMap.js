@@ -8,7 +8,7 @@
  */
 import { Fragment, useCallback, memo } from 'react'
 import { SvgWrapper, withContainer, useDimensions, useTheme } from '@stu-dev/nivo-core'
-import { useTooltip } from '@nivo/tooltip'
+import { useTooltip } from '@stu-dev/nivo-tooltip'
 import { GeoMapPropTypes } from './props'
 import GeoGraticule from './GeoGraticule'
 import GeoMapFeature from './GeoMapFeature'

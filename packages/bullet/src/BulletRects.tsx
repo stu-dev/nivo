@@ -3,7 +3,7 @@ import { useTransition, animated, to } from '@react-spring/web'
 import { useMotionConfig, useTheme } from '@stu-dev/nivo-core'
 import { computeRects } from './compute'
 import { BulletRectsProps, BulletRectComputedRect, BulletRectAnimatedProps } from './types'
-import { useInheritedColor } from '@nivo/colors'
+import { useInheritedColor } from '@stu-dev/nivo-colors'
 
 export const BulletRects = ({
     animatedProps,

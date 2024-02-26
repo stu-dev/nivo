@@ -1,6 +1,6 @@
 {
-    "name": "@nivo/axes",
-    "version": "0.84.0",
+    "name": "@stu-dev/nivo-axes",
+    "version": "0.84.3",
     "license": "MIT",
     "author": {
         "name": "Raphaël Benitte",
@@ -28,7 +28,7 @@
     ],
     "dependencies": {
         "@stu-dev/nivo-core": "workspace:*",
-        "@nivo/scales": "workspace:*",
+        "@stu-dev/nivo-scales": "workspace:*",
         "@react-spring/web": "9.4.5 || ^9.7.2",
         "@types/d3-format": "^1.4.1",
         "@types/d3-time-format": "^2.3.1",

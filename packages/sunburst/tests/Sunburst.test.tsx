@@ -1,5 +1,5 @@
 import { mount } from 'enzyme'
-import { ArcShape, ArcLabelsLayer, ArcLabelComponent as ArcLabel } from '@nivo/arcs'
+import { ArcShape, ArcLabelsLayer, ArcLabelComponent as ArcLabel } from '@stu-dev/nivo-arcs'
 // @ts-ignore
 import { linearGradientDef, patternDotsDef } from '@stu-dev/nivo-core'
 // @ts-ignore

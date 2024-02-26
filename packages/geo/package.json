@@ -1,6 +1,6 @@
 {
-    "name": "@nivo/geo",
-    "version": "0.84.0",
+    "name": "@stu-dev/nivo-geo",
+    "version": "0.84.3",
     "license": "MIT",
     "author": {
         "name": "Raphaël Benitte",
@@ -29,10 +29,10 @@
         "index.d.ts"
     ],
     "dependencies": {
-        "@nivo/colors": "workspace:*",
+        "@stu-dev/nivo-colors": "workspace:*",
         "@stu-dev/nivo-core": "workspace:*",
-        "@nivo/legends": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
+        "@stu-dev/nivo-legends": "workspace:*",
+        "@stu-dev/nivo-tooltip": "workspace:*",
         "d3-format": "^1.4.4",
         "d3-geo": "^1.11.3",
         "lodash": "^4.17.21",

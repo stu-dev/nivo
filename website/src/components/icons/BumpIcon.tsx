@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react'
 import { Theme } from '@stu-dev/nivo-core'
-import { Bump, BumpSvgProps, BumpSerieExtraProps } from '@nivo/bump'
+import { Bump, BumpSvgProps, BumpSerieExtraProps } from '@stu-dev/nivo-bump'
 import bumpLightNeutralImg from '../../assets/icons/bump-light-neutral.png'
 import bumpLightColoredImg from '../../assets/icons/bump-light-colored.png'
 import bumpDarkNeutralImg from '../../assets/icons/bump-dark-neutral.png'

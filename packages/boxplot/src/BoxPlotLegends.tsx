@@ -1,4 +1,4 @@
-import { BoxLegendSvg, LegendProps } from '@nivo/legends'
+import { BoxLegendSvg, LegendProps } from '@stu-dev/nivo-legends'
 import { LegendData } from './types'
 
 interface BoxPlotLegendsProps {

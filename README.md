@@ -19,7 +19,7 @@ In order to use nivo, you have to install the `@stu-dev/nivo-core` package and t
 some of the scoped `@nivo` packages according to the charts you wish to use:
 
 ```
-yarn add @stu-dev/nivo-core @nivo/bar
+yarn add @stu-dev/nivo-core @stu-dev/nivo-bar
 ```
 
 ## Features

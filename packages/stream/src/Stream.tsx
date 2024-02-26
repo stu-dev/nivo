@@ -6,8 +6,8 @@ import {
     // @ts-ignore
     bindDefs,
 } from '@stu-dev/nivo-core'
-import { Axes, Grid } from '@nivo/axes'
-import { BoxLegendSvg } from '@nivo/legends'
+import { Axes, Grid } from '@stu-dev/nivo-axes'
+import { BoxLegendSvg } from '@stu-dev/nivo-legends'
 import { StreamLayers } from './StreamLayers'
 import { StreamDots } from './StreamDots'
 import { StreamSlices } from './StreamSlices'

@@ -1,8 +1,8 @@
 import { useCallback, createElement, MouseEvent } from 'react'
 import { useSpring, animated } from '@react-spring/web'
 import { useAnimatedPath, useMotionConfig } from '@stu-dev/nivo-core'
-import { InheritedColorConfigCustomFunction } from '@nivo/colors'
-import { useTooltip } from '@nivo/tooltip'
+import { InheritedColorConfigCustomFunction } from '@stu-dev/nivo-colors'
+import { useTooltip } from '@stu-dev/nivo-tooltip'
 import { StreamCommonProps, StreamDatum, StreamLayerData } from './types'
 
 interface StreamLayerProps<RawDatum extends StreamDatum> {

@@ -16,7 +16,7 @@ export const getLegendData = <RawDatum extends BoxPlotDatum>({
     const byGroup = dataFrom === 'group'
     const legendData = boxPlots.map(
         boxPlot =>
-            // id & label are redundant below, but needed for ts in @nivo/legends
+            // id & label are redundant below, but needed for ts in @stu-dev/nivo-legends
             ({
                 id: byGroup ? boxPlot.data.groupIndex : boxPlot.data.subGroupIndex,
                 label: getLegendLabel(boxPlot?.data),

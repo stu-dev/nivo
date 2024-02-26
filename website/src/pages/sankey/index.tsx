@@ -1,13 +1,13 @@
 import React from 'react'
 import omit from 'lodash/omit'
-import { generateSankeyData } from '@nivo/generators'
+import { generateSankeyData } from '@stu-dev/nivo-generators'
 import {
     ResponsiveSankey,
     svgDefaultProps,
     SankeySvgProps,
     DefaultNode,
     DefaultLink,
-} from '@nivo/sankey'
+} from '@stu-dev/nivo-sankey'
 import { ComponentTemplate } from '../../components/components/ComponentTemplate'
 import meta from '../../data/components/sankey/meta.yml'
 import mapper from '../../data/components/sankey/mapper'

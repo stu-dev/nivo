@@ -1,7 +1,7 @@
 {
-    "name": "@nivo/grid",
+    "name": "@stu-dev/nivo-grid",
     "description": "grid components for nivo dataviz library",
-    "version": "0.84.0",
+    "version": "0.84.3",
     "license": "MIT",
     "author": {
         "name": "Raphaël Benitte",

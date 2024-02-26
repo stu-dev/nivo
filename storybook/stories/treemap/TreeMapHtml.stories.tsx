@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { generateLibTree } from '@nivo/generators'
-import { TreeMapHtml } from '@nivo/treemap'
+import { generateLibTree } from '@stu-dev/nivo-generators'
+import { TreeMapHtml } from '@stu-dev/nivo-treemap'
 
 const meta: Meta<typeof TreeMapHtml> = {
     title: 'TreeMapHtml',

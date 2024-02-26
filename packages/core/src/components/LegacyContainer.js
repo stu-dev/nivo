@@ -5,7 +5,7 @@ import {
     TooltipStateContext,
     useTooltipHandlers,
     Tooltip,
-} from '@nivo/tooltip'
+} from '@stu-dev/nivo-tooltip'
 import noop from '../lib/noop'
 import { ThemeProvider } from '../theming'
 import { MotionConfigProvider } from '../motion'

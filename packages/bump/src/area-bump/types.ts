@@ -1,9 +1,9 @@
 import { FunctionComponent, MouseEvent } from 'react'
 import { Area } from 'd3-shape'
 import { Box, Theme, Dimensions, MotionProps, CssMixBlendMode, SvgDefsAndFill } from '@stu-dev/nivo-core'
-import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
-import { AxisProps } from '@nivo/axes'
-import { ScalePoint } from '@nivo/scales'
+import { InheritedColorConfig, OrdinalColorScaleConfig } from '@stu-dev/nivo-colors'
+import { AxisProps } from '@stu-dev/nivo-axes'
+import { ScalePoint } from '@stu-dev/nivo-scales'
 
 export interface AreaBumpDatum {
     x: number | string

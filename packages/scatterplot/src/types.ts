@@ -10,11 +10,11 @@ import {
     CartesianMarkerProps,
     PropertyAccessor,
 } from '@stu-dev/nivo-core'
-import { AnyScale, ScaleSpec } from '@nivo/scales'
-import { OrdinalColorScaleConfig } from '@nivo/colors'
-import { AxisProps, GridValues } from '@nivo/axes'
-import { LegendProps } from '@nivo/legends'
-import { AnnotationMatcher } from '@nivo/annotations'
+import { AnyScale, ScaleSpec } from '@stu-dev/nivo-scales'
+import { OrdinalColorScaleConfig } from '@stu-dev/nivo-colors'
+import { AxisProps, GridValues } from '@stu-dev/nivo-axes'
+import { LegendProps } from '@stu-dev/nivo-legends'
+import { AnnotationMatcher } from '@stu-dev/nivo-annotations'
 
 // the types supported for x/y values
 export type ScatterPlotValue = number | string | Date
