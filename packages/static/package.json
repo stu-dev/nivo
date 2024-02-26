@@ -1,5 +1,5 @@
 {
-    "name": "@nivo/static",
+    "name": "@stu-dev/nivo-static",
     "version": "0.84.0",
     "license": "MIT",
     "author": {
@@ -27,7 +27,7 @@
         "@nivo/chord": "workspace:*",
         "@nivo/circle-packing": "workspace:*",
         "@nivo/colors": "workspace:*",
-        "@nivo/core": "workspace:*",
+        "@stu-dev/nivo-core": "workspace:*",
         "@nivo/generators": "workspace:*",
         "@nivo/heatmap": "workspace:*",
         "@nivo/legends": "workspace:*",

@@ -1,5 +1,5 @@
 {
-    "name": "@nivo/core",
+    "name": "@stu-dev/nivo-core",
     "version": "0.84.0",
     "license": "MIT",
     "author": {
@@ -27,7 +27,6 @@
         "@types/d3-shape": "^2.0.0",
         "d3-color": "^3.1.0",
         "d3-format": "^1.4.4",
-        "d3-interpolate": "^3.0.1",
         "d3-scale": "^3.2.3",
         "d3-scale-chromatic": "^3.0.0",
         "d3-shape": "^1.3.5",

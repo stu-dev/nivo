@@ -1,4 +1,4 @@
-import { interpolateString } from 'd3-interpolate'
+// import { interpolateString } from 'd3-interpolate'
 import { useEffect, useMemo, useRef } from 'react'
 import { useSpring, to } from '@react-spring/web'
 import { useMotionConfig } from '../motion'
@@ -17,7 +17,7 @@ export const useAnimatedPath = path => {
     const { animate, config: springConfig } = useMotionConfig()
 
     const previousPath = usePrevious(path)
-    const interpolator = useMemo(() => interpolateString(previousPath, path), [previousPath, path])
+    const interpolator = useMemo(() => '', [])
 
     const { value } = useSpring({
         from: { value: 0 },
